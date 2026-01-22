@@ -81,13 +81,13 @@
         "title": "Saree Street",
         "prompt": "A trendy girl in a colorful saree walking down an urban street, candid street photography vibe, golden hour sunlight, cinematic lens flare, vibrant city background, realistic portrait with preserved face, modern Bollywood-inspired Instagram look, 9:16 vertical format",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763542559/Gemini_Generated_Image_dhe94ldhe94ldhe9_yt58bh.png",
-        "category_name": "Men"
+        "category_name": "Girl"
     },
     {
         "title": "Cinematic Rooftop",
         "prompt": "A girl standing on a rooftop at dusk, city skyline behind her, dramatic backlight, warm ambient glow, cinematic film composition, soft haze, natural facial features preserved, high detail, 9:16 aspect ratio, Instagram-ready",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763542711/gemini-gilr6_mt6xhm.png",
-        "category_name": "Men"
+        "category_name": "Girl"
     },
     {
         "title": "Natural Everyday Couple",
@@ -263,4 +263,5 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763618499/Baby-Girl-Saree-Vintage-Look-Ai-Prompt-2025-Gemini-AI-Image-Prompt-For-Instagram-Post-4_nacimn.webp",
         "category_name": "Baby"
     }
+
 ]
