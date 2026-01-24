@@ -1,5 +1,5 @@
 {
-    "isBannerAdEnabled": false,
+    "isBannerAdEnabled": true,
     "isInterstitialAdEnabled": true,
     "showTestAds": true,
     "canShowAds": true,
