@@ -1,7 +1,7 @@
 {
     "isBannerAdEnabled": true,
     "isInterstitialAdEnabled": true,
-    "showTestAds": true,
+    "showTestAds": false,
     "canShowAds": true,
     "minTimeBetweenInterstitialAds": 60,
     "minActionsBeforeInterstitial": 3,
