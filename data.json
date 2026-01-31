@@ -133,9 +133,9 @@
         "title": "Dark Fine-Art Portrait with Horse",
         "prompt": "Dark moody fine-art full body portrait of a handsome man (100% same face, same messy hair, defined beard) wearing a heavy knit turtleneck and oversized black trousers. He stands leaning against an aged wooden stable doorway, one leg crossed, looking forward with a mysterious, intense masculine look. A powerful grey horse with a deep black mane stands beside him, the man’s hand resting calmly on its neck. Background: dramatic low-key lighting, deep shadows, soft spotlight on the man and horse, textured wooden walls, fog-like atmosphere. High contrast, fine-art photography style, ultra realistic 8K.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769689635/Gemini_Generated_Image_mykv3mykv3mykv3m_udpwei.webp",
-        "category_name": "Man",
+        "category_name": "Men",
         "categories": [
-            "Man",
+            "Men",
             "Horse",
             "Portrait"
         ]
@@ -144,10 +144,10 @@
         "title": "Golden Hour Portrait with Horse",
         "prompt": "Cinematic golden-hour full body shot of a young man (100% same face, natural messy hair and beard) wearing a thick textured turtleneck sweater, loose black trousers, and rugged black boots. He leans against a wooden stable entrance, one foot crossed over the other, looking into the warm sunset with a heroic, attractive expression. A strong grey horse with a dark mane stands next to him, gently nudged by his hand. Golden sunlight silhouettes the man and horse, creating dramatic rim lighting, warm orange glow, long shadows, and a western countryside atmosphere. Hyper-realistic, crisp details, cinematic depth.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769689651/Gemini_Generated_Image_igprpjigprpjigpr_csgmk9.webp",
-        "category_name": "Man",
+        "category_name": "Men",
         "categories": [
             "Boy",
-            "Man",
+            "Men",
             "Horse",
             "Portrait"
         ]
@@ -156,10 +156,10 @@
         "title": "Golden Hour Western Portrait with Horse",
         "prompt": "Cinematic golden-hour full body shot of a young man (100% same face, natural messy hair, defined beard) wearing a warm chunky turtleneck sweater, long black trousers, and rugged leather boots. He leans with confident ease against a wide wooden stable frame, one foot resting over the other. His gaze is fixed on the glowing sunset with a soft heroic expression. A tall grey horse with a flowing dark mane stands close, its muzzle gently touching the man’s arm. The golden sunlight creates stunning rim-light along the man’s shoulders and hair, long dramatic shadows behind them, and a dusty countryside atmosphere. Hyper-realistic textures, cinematic depth of field, warm western color palette, ultra crisp details.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769689780/unnamed_fftgz4.jpg",
-        "category_name": "Man",
+        "category_name": "Men",
         "categories": [
             "Boy",
-            "Man",
+            "Men",
             "Horse",
             "Portrait"
         ]
