@@ -1,5 +1,237 @@
 [
     {
+        "title": "Elegant Birthday Portrait with Tiara and Spotlight",
+        "prompt": "Based on reference image, the woman with her specific facial features, long wavy brown hair, and silver tiara is shown in a profile pose, blowing out the \"28\" gold candles on the chocolate cake she holds. She wears the same black sequined gown against the grey wall with the dramatic circular spotlight shadow. The studio lighting highlights her and the cake.",
+        "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769686814/gemini-birthday1_vjquuv.avif",
+        "category_name": "Birthday",
+        "categories": [
+            "Birthday",
+            "Girl",
+            "Cake"
+        ]
+    },
+    {
+        "title": "Minimalist Fashion Birthday Portrait in Black",
+        "prompt": "Based on reference image, a fashion photograph of a woman with the likeness of the subject, crouching in an oversized black blazer, sunglasses, and sheer black gloves. She holds a small black tiered birthday cake with \"28\" candles. The setting is a minimalist white studio with dramatic side lighting.",
+        "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769687038/gemini-birthday2_c0spr5.avif",
+        "category_name": "Birthday",
+        "categories": [
+            "Birthday",
+            "Girl",
+            "Cake"
+        ]
+    },
+    {
+        "title": "Elegant Red Editorial Birthday Portrait with Balloons",
+        "prompt": "A photorealistic studio portrait using the exact same female face from the reference image (same facial structure, eye shape, lips, nose, skin tone, and expression). The subject is a young woman seated gracefully on a glossy dark studio floor, surrounded by scattered red balloons. She wears an elegant deep red corset-style dress with a structured bodice and a full, textured skirt featuring subtle floral patterns. The dress has a luxurious satin and brocade finish. Her posture is poised and confident, legs folded to one side. She holds a small round white birthday cake in one hand, decorated with red cherries, red ribbon accents, and a sparkling silver “18” topper. In her other hand, she delicately holds a single red cherry by the stem. Her hair is styled in a soft, romantic updo with loose curled tendrils framing her face. She wears minimal but elegant jewelry: a pearl necklace with a small drop pendant and a matching pearl bracelet. Lighting is dramatic and cinematic: a soft circular spotlight behind her creates a halo effect against a neutral gray background, while gentle studio lighting highlights her face, dress texture, and the glossy floor reflections. Color palette is dominated by rich reds, soft whites, and neutral grays. Mood is elegant, celebratory, slightly dramatic, and high-fashion editorial. Ultra-high resolution, sharp focus, shallow depth of field, professional studio photography, realistic skin texture, natural makeup, soft shadows.",
+        "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769687781/gemini-birthday3_whs1ct.avif",
+        "category_name": "Birthday",
+        "categories": [
+            "Birthday",
+            "Girl",
+            "Cake"
+        ]
+    },
+    {
+        "title": "1980s Retro Studio Glam",
+        "prompt": "Convert my selfie into a highly realistic 4K HD 1980s retro studio glam portrait. Keep my face completely unchanged with accurate skin texture, pores, and natural details. Use dramatic studio lighting with soft highlights and deep shadows, inspired by 1980s fashion photography. Add subtle neon reflections, rich saturation, and clean contrast while maintaining realism. The background should feature a soft gradient or classic studio backdrop with retro vibes. Apply gentle film grain and slight glow for authenticity. Ensure professional sharpness, cinematic depth, and ultra-realistic details that make the image look like a high-end 1980s magazine cover shot on analog film.",
+        "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769688127/Gemini_Generated_Image_7m6gw7m6gw7m6gw7-768x512_ds5cqc.webp",
+        "category_name": "Girl",
+        "categories": [
+            "Girl",
+            "Retro",
+            "Portrait",
+            "Aesthetic"
+        ]
+    },
+    {
+        "title": "1960s Black and White Cinematic Portrait",
+        "prompt": "Create a 4K ultra-realistic black-and-white 1960s cinematic portrait using my uploaded selfie. Do not change my facial structure, expression, or identity. Focus on dramatic lighting with strong contrast, inspired by classic European cinema. Add natural shadows that sculpt the face while keeping smooth tonal transitions. Introduce fine film grain and slight softness typical of vintage lenses. The background should be minimal, blurred, and timeless. Maintain sharp focus on eyes and facial details while preserving an authentic old-film look. The final image should feel emotional, cinematic, and realistic, like a still from a classic 1960s black-and-white movie.",
+        "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769688330/Gemini_Generated_Image_hoijnyhoijnyhoij-768x768_yixmqo.webp",
+        "category_name": "Girl",
+        "categories": [
+            "Girl",
+            "Black and White",
+            "Retro",
+            "Portrait"
+        ]
+    },
+    {
+        "title": "1990s Retro Street Portrait",
+        "prompt": "Turn my selfie into a hyper-realistic 4K HD 1990s retro street portrait. Keep my face exactly the same with natural skin texture and details. Apply urban daylight lighting with soft shadows and realistic highlights. Use muted yet warm color tones inspired by 1990s film photography. Add subtle grain, natural contrast, and slightly faded colors for authenticity. The background should feel urban and casual, softly blurred to create depth while keeping focus on the subject. Ensure cinematic realism, sharp facial clarity, and a nostalgic street-style atmosphere that looks like it was shot on a 35mm film camera.",
+        "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769688400/Gemini_Generated_Image_us3fnfus3fnfus3f_iqtsjk.png",
+        "category_name": "Girl",
+        "categories": [
+            "Girl",
+            "Retro",
+            "Street",
+            "Portrait"
+        ]
+    },
+    {
+        "title": "Cinematic Red Rose Glam Portrait",
+        "prompt": "Create a high-resolution, ultra-realistic, vertical 9:16 cinematic portrait of a stunning woman posing elegantly with a deep red rose held gently near her lips, captured in a luxurious, romantic studio atmosphere. She should wear a sophisticated black lace dress with layered ruffles that flow gracefully around her silhouette, complemented by glamorous makeup featuring bold red lipstick, sharp eyeliner, and flawless, glowing skin. Style her dark, curly hair in an elegant updo with soft, loose strands framing her face for a refined, timeless look. Accessorize with sparkling diamond earrings, a delicate bracelet, and a statement ring to enhance the premium aesthetic. Use dramatic lighting with a warm red backlight and a dark gradient background to create a cinematic, sensual mood with soft shadows and glowing highlights. Emphasize shallow depth of field, realistic skin and fabric textures, rich color grading, and ultra-sharp detail for a high-fashion, photorealistic finish. Use the exact same face and facial structure as the provided reference image with 100% identity accuracy and no alteration.",
+        "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769688801/instagram-viral-portraits-girls_xohvs7.png",
+        "category_name": "Girl",
+        "categories": [
+            "Girl",
+            "Portrait",
+            "Flower"
+        ]
+    },
+    {
+        "title": "Romantic Garden Lifestyle Portrait",
+        "prompt": "Create a high-resolution, ultra-realistic, vertical 9:16 cinematic portrait of a beautiful woman standing in a serene white flower garden, captured in a soft, romantic, lifestyle-editorial style. She should have long, rich brown hair styled with a braided crown wrapping gracefully around the top of her head in a half-up look, while the rest of her hair flows down in soft, voluminous waves with subtle face-framing layers or gentle bangs. Dress her in a stylish black striped dress that contrasts elegantly with the bright floral surroundings. Pose her holding a single white flower delicately in one hand, looking directly toward the viewer with a calm, warm expression. Use natural daylight with soft, flattering shadows, shallow depth of field, creamy background bokeh, and realistic skin and fabric textures to enhance the dreamy garden atmosphere. Render in ultra-sharp detail with cinematic color grading and a premium, photorealistic finish. Use the exact same face and facial structure as the provided reference image with 100% identity accuracy and no alteration.",
+        "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769688864/unnamed_xtcc4s.jpg",
+        "category_name": "Girl",
+        "categories": [
+            "Girl",
+            "Portrait",
+            "Nature",
+            "Flower"
+        ]
+    },
+    {
+        "title": "Luxury Street Editorial Portrait with Sports Car",
+        "prompt": "IMPORTANT – FACE LOCK (STRICT – MUST FOLLOW) Use the uploaded photo as the ONLY facial reference. Do NOT change facial structure, jawline, eyes shape, nose, lips, skin tone, beard, hairline, age, or expression. No beautification, no smoothing, no AI face regeneration or replacement. Preserve real skin texture, pores, micro-details, natural asymmetry. Face must be 100% identical, instantly recognizable, ultra-sharp HD clarity, zero blur. PROMPT: Ultra-realistic 8K cinematic fashion photograph, premium luxury street style, ASPECT RATIO: 3:4 vertical. SUBJECT: An 18-year young stylish man with slim skinny body, lean physique, narrow shoulders and waist, youthful proportions. Face taken exactly from the uploaded reference image, perfect 100% match. POSE & BODY LANGUAGE: Half-body framing Subject standing confidently in front of an orange luxury sports car Torso facing forward Head turned slightly to the left One hand adjusting matte black sunglasses at the temple Other hand placed confidently inside jacket pocket Chin slightly raised, shoulders squared Editorial magazine-cover stance FACIAL EXPRESSION: Calm, fearless, dominant Neutral lips Sharp intense eyes No smile, no exaggeration HAIRSTYLE: Exactly same hairstyle as reference image Modern textured side-swept quiff Heavy natural volume on top Soft matte finish Visible individual hair strands NO hard fade, NO haircut change OUTFIT DETAILS: Orange patterned windbreaker jacket Ultra-realistic fabric texture with natural folds Detailed stitching visible Black loose-fit pants (partially visible) ENVIRONMENT: Suburban house exterior Driveway with greenery Orange sports car centered behind subject Background softly separated, realistic depth LIGHTING: Cinematic top-side natural lighting Sculpted highlights on face and jacket Soft realistic shadows No artificial glow CAMERA & QUALITY: Professional DSLR look 50mm lens Eye-level half-body shot Ultra-sharp focus on face and sunglasses No noise, no blur COLOR GRADING & MOOD: Warm orange highlights Balanced teal shadows High-end cinematic contrast Luxury street editorial mood. NEGATIVE PROMPT: face change, AI look, beautification, smooth skin, blur, cartoon, anime, illustration, CGI, watermark, logo, extra limbs, distorted anatomy",
+        "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769689066/unnamed_ctoqsw.jpg",
+        "category_name": "Men",
+        "categories": [
+            "Boy",
+            "Men",
+            "Car",
+            "Portrait"
+        ]
+    },
+    {
+        "title": "Luxury Street Fashion Portrait with Sports Car",
+        "prompt": "IMPORTANT – FACE LOCK (STRICT – MUST FOLLOW) Use the uploaded photo as the ONLY facial reference. Do NOT change facial structure, jawline, eyes shape, nose, lips, skin tone, beard, hairline, age, or expression. No beautification, no smoothing, no AI face regeneration or replacement. Preserve real skin texture, pores, micro-details, natural asymmetry. Face must be 100% identical, instantly recognizable, ultra-sharp HD clarity, zero blur. PROMPT: Ultra-realistic 8K cinematic street-fashion portrait, luxury editorial look, ASPECT RATIO: 3:4 vertical. SUBJECT: Same young man from reference image with 100% exact facial match and natural skin detail. POSE & BODY LANGUAGE: Half-body framing Subject leaning slightly against the front fender of the orange sports car Body angled about 10–15° toward camera One arm resting casually on car hood Other hand relaxed near waist Head slightly tilted down Eyes looking forward through sunglasses Calm, dominant luxury stance FACIAL EXPRESSION: Cold, composed confidence Neutral lips Strong jaw presence No smile HAIRSTYLE: Exactly same hairstyle as reference Textured side-swept quiff Natural volume and strand separation No alteration allowed OUTFIT DETAILS: Matte black lightweight bomber jacket Inner black t-shirt with realistic cotton texture Black loose-fit pants Minimal silver wrist accessory ENVIRONMENT: Same suburban driveway Orange sports car positioned diagonally House facade and greenery visible Realistic reflections on car paint LIGHTING: Soft natural daylight Gentle rim light on shoulders and hair Balanced highlights on face Realistic shadow depth CAMERA & QUALITY: DSLR photography style 50mm lens Eye-level framing Ultra-sharp face clarity Natural separation, no fake blur COLOR GRADING & MOOD: Warm cinematic tones Deep blacks High-contrast luxury street aesthetic. NEGATIVE PROMPT: face mismatch, AI regeneration, beautification, blur, anime, cartoon, illustration, CGI, artifacts, watermark, logo, extra fingers",
+        "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769689364/unnamed_mlm83b.jpg",
+        "category_name": "Men",
+        "categories": [
+            "Boy",
+            "Men",
+            "Street",
+            "Fashion",
+            "Portrait"
+        ]
+    },
+    {
+        "title": "Luxury Street Portrait with BMW M8",
+        "prompt": "IMPORTANT – FACE LOCK (MUST FOLLOW STRICTLY) Use the uploaded photo as the ONLY facial reference. Do NOT change facial structure, jawline, eyes shape, nose, lips, skin tone, beard, hairline, age, or expression. No beautification, no smoothing, no AI face regeneration or replacement. Preserve real skin texture, pores, fine details, natural asymmetry. Face must be 100% identical and instantly recognizable, ultra-HD clarity, zero blur. PROMPT: Ultra-realistic 8K cinematic street portrait, luxury automotive editorial vibe, ASPECT RATIO: 3:4 vertical. SUBJECT: Same young man from the reference image with 100% exact facial match and natural skin texture. POSE & BODY LANGUAGE: Half-body framing Subject leaning against the front fender of a white BMW M8 Competition One elbow resting on the car Other hand holding sunglasses loosely Head tilted slightly downward Eyes looking straight at the camera Relaxed but dominant posture FACIAL EXPRESSION: Cool, controlled confidence Neutral expression Sharp eyes No smile HAIRSTYLE: Exactly same hairstyle as reference Natural flow and volume No alteration allowed OUTFIT DETAILS: White oversized premium hoodie Black tapered trousers White luxury sneakers Minimal black wrist accessory CAR DETAILS: BMW M8 Competition (pearl white) Aggressive grille and sporty lines Realistic paint reflections Correct proportions and detailing ENVIRONMENT: Open urban parking space Concrete ground Minimal background distractions Clean modern city feel LIGHTING: Soft natural daylight Even face illumination Gentle rim light separating subject from car No harsh shadows CAMERA & QUALITY: DSLR photography style 50mm lens Eye-level framing Ultra-sharp face clarity Zero motion blur COLOR GRADING & MOOD: Clean high-contrast grading White and neutral tones dominance Modern luxury street mood. NEGATIVE PROMPT: face mismatch, AI regeneration, beautification, blur, anime, cartoon, illustration, CGI, artifacts, watermark, logo, extra fingers",
+        "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769689501/unnamed_kjkuj4.jpg",
+        "category_name": "Men",
+        "categories": [
+            "Boy",
+            "Men",
+            "Street",
+            "Fashion",
+            "Portrait"
+        ]
+    },
+    {
+        "title": "Dark Fine-Art Portrait with Horse",
+        "prompt": "Dark moody fine-art full body portrait of a handsome man (100% same face, same messy hair, defined beard) wearing a heavy knit turtleneck and oversized black trousers. He stands leaning against an aged wooden stable doorway, one leg crossed, looking forward with a mysterious, intense masculine look. A powerful grey horse with a deep black mane stands beside him, the man’s hand resting calmly on its neck. Background: dramatic low-key lighting, deep shadows, soft spotlight on the man and horse, textured wooden walls, fog-like atmosphere. High contrast, fine-art photography style, ultra realistic 8K.",
+        "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769689635/Gemini_Generated_Image_mykv3mykv3mykv3m_udpwei.webp",
+        "category_name": "Man",
+        "categories": [
+            "Man",
+            "Horse",
+            "Portrait"
+        ]
+    },
+    {
+        "title": "Golden Hour Portrait with Horse",
+        "prompt": "Cinematic golden-hour full body shot of a young man (100% same face, natural messy hair and beard) wearing a thick textured turtleneck sweater, loose black trousers, and rugged black boots. He leans against a wooden stable entrance, one foot crossed over the other, looking into the warm sunset with a heroic, attractive expression. A strong grey horse with a dark mane stands next to him, gently nudged by his hand. Golden sunlight silhouettes the man and horse, creating dramatic rim lighting, warm orange glow, long shadows, and a western countryside atmosphere. Hyper-realistic, crisp details, cinematic depth.",
+        "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769689651/Gemini_Generated_Image_igprpjigprpjigpr_csgmk9.webp",
+        "category_name": "Man",
+        "categories": [
+            "Boy",
+            "Man",
+            "Horse",
+            "Portrait"
+        ]
+    },
+    {
+        "title": "Golden Hour Western Portrait with Horse",
+        "prompt": "Cinematic golden-hour full body shot of a young man (100% same face, natural messy hair, defined beard) wearing a warm chunky turtleneck sweater, long black trousers, and rugged leather boots. He leans with confident ease against a wide wooden stable frame, one foot resting over the other. His gaze is fixed on the glowing sunset with a soft heroic expression. A tall grey horse with a flowing dark mane stands close, its muzzle gently touching the man’s arm. The golden sunlight creates stunning rim-light along the man’s shoulders and hair, long dramatic shadows behind them, and a dusty countryside atmosphere. Hyper-realistic textures, cinematic depth of field, warm western color palette, ultra crisp details.",
+        "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769689780/unnamed_fftgz4.jpg",
+        "category_name": "Man",
+        "categories": [
+            "Boy",
+            "Man",
+            "Horse",
+            "Portrait"
+        ]
+    },
+    {
+        "title": "Chocolate Day Couple Portrait in Park",
+        "prompt": "Use the uploaded boy photo and girl photo as the ONLY facial references. Do NOT change facial structure, eyes, nose, lips, jawline, skin tone, hairline, age, or natural expression. No beautification, no smoothing, no AI face regeneration, no face swapping. Preserve real skin texture, pores, fine lines, natural asymmetry. Faces must be 100% identical, instantly recognizable, ultra-sharp, HD clarity, zero blur. Only real human photography look — NO cartoon, NO anime, NO illustration, NO CGI.PROMPT: Ultra-realistic 8K DSLR-style professional couple photograph, portrait orientation, natural daylight photography. SCENE & MOOD A bright Chocolate Day celebration in a peaceful green park during late afternoon. Soft sunlight filtering through trees, warm and romantic atmosphere. The scene feels fresh, joyful, and emotionally intimate. POSE & INTERACTION Boy standing slightly sideways Girl standing close, facing him Boy gently feeding a chocolate to the girl with his fingers Girl smiling softly, eyes focused on him One hand of the girl resting lightly on his wrist Natural candid couple interaction, not posed FACE & EXPRESSION Faces taken only from reference images 100% exact face match, no facial change Natural happy expressions Eyes crystal clear, eyelashes visible Real skin texture, pores visible No glow, no blur, no artificial smoothness OUTFIT & DRESS CODE Boy: Light brown casual jacket White t-shirt Dark blue jeans Clean modern look Girl: Soft pastel pink dress Minimal earrings Natural makeup only Hair open and flowing naturally COLOR GRADING Warm sunlight tones Chocolate brown + pastel pink highlights Natural skin colors preserved No cinematic over-grading BACKGROUND DETAILS Green trees softly behind Park bench visible Chocolate gift box in boy’s hand Subtle roses placed nearby Background realistic, faces remain ultra-sharp TEXT (CINEMATIC & ATTRACTIVE) HAPPY CHOCOLATE DAY Bold cinematic typography Chocolate-brown color with soft golden highlight Clean placement, not covering faces CAMERA & LIGHTING Eye-level medium shot 50mm lens look Natural sunlight Balanced exposure Zero blur anywhere. ASPECT RATIO 3:4 vertical NEGATIVE PROMPT cartoon, anime, illustration, CGI, AI face, blur, bokeh, smooth skin, beauty filter, watermark, logo, extra fingers",
+        "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769690086/unnamed_yiyxu7.jpg",
+        "category_name": "Couple",
+        "categories": [
+            "Boy",
+            "Girl",
+            "Couple",
+            "Portrait",
+            "Romantic",
+            "Valentine"
+        ]
+    },
+    {
+        "title": "Kiss Day Romantic Night Portrait",
+        "prompt": "IMPORTANT – FACE LOCK (NON-NEGOTIABLE) Use the uploaded boy photo and uploaded girl photo as the ONLY face references. No change in facial features, skin tone, hairstyle, age, or expression. No AI enhancement, no beauty filter, no smoothing. Faces must remain 100% identical, crystal clear, and natural. PROMPT: Create a high-impact ultra-realistic Kiss Day night-romance portrait with cinematic depth and emotional warmth. SCENE & BACKGROUND: Romantic night indoor setup Background color gradient: deep wine red → burgundy → soft rose Warm fairy lights and candle glow Subtle roses and bokeh lights in background POSE & ACTION: Girl softly kissing the boy’s cheek Boy smiling gently, relaxed eyes Girl’s hand resting naturally on boy’s chest Realistic affectionate posture OUTFIT DETAILS: Boy: dark maroon or black fitted shirt Girl: elegant wine-red dress Premium Valentine styling FACIAL EXPRESSION & EMOTION: Happy, romantic, intimate Natural smiles, premium composition LIGHTING: Warm romantic lighting Balanced highlights on faces Soft shadows, no harsh contrast CAMERA & QUALITY: Professional DSLR look Ultra-HD clarity Faces crystal clear, no blur Natural skin texture visible ASPECT RATIO: • 3:4 vertical , HANDWRITTEN SIGNATURE-STYLE typography, thin cursive strokes, small size, subtle premium elegance, white or soft off-white color.",
+        "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769690261/unnamed_qw07qy.jpg",
+        "category_name": "Couple",
+        "categories": [
+            "Boy",
+            "Girl",
+            "Couple",
+            "Romantic",
+            "Valentine"
+        ]
+    },
+    {
+        "title": "Kiss Day Rooftop Romantic Portrait",
+        "prompt": "IMPORTANT – FACE LOCK (STRICT & NON-NEGOTIABLE) Use the uploaded boy photo and uploaded girl photo as the ONLY facial references. Do NOT change facial structure, jawline, eyes shape, nose, lips, skin tone, beard, hairline, age, or expression. No beautification, no smoothing, no AI face regeneration or face swap. Preserve natural skin texture, pores, asymmetry, and real human imperfections. Faces must be 100% identical and instantly recognizable as the reference images. PROMPT: Create an ultra-realistic cinematic Kiss Day romantic portrait capturing a soft, emotional moment. SCENE & COLOUR GRADIENT: Nighttime rooftop setting Deep royal blue → midnight navy → soft silver gradient City lights softly blurred in the distance Calm, intimate atmosphere POSE & ACTION: Boy standing close, gently placing a kiss on the girl’s forehead Girl’s eyes closed, peaceful smile Girl lightly holding the boy’s jacket or hand Natural closeness, no exaggerated movement OUTFIT DETAILS: Boy wearing a dark navy or charcoal jacket with fitted trousers Girl wearing a soft pastel dress or top (ivory / light blue) Realistic fabric texture, natural folds  blending naturally with night gradient LIGHTING & CAMERA: Soft rim light outlining faces Gentle key light on skin DSLR-quality sharp focus Face clarity ultra-HD, no blur STYLE & QUALITY: Hyper-realistic Natural skin tones No AI look, no cartoon style ASPECT RATIO: • 3:4 vertical",
+        "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769690403/unnamed_freqhh.jpg",
+        "category_name": "Couple",
+        "categories": [
+            "Boy",
+            "Girl",
+            "Couple",
+            "Romantic",
+            "Valentine"
+        ]
+    },
+    {
+        "title": "Rose Day Romantic Couple Portrait",
+        "prompt": "IMPORTANT – FACE LOCK (MUST FOLLOW STRICTLY) Use the uploaded boy photo and uploaded girl photo as the ONLY facial references. Do NOT change facial structure, eyes, nose, lips, jawline, skin tone, hairline, age, beard, or expression. No beautification, no smoothing, no AI face regeneration. Preserve real skin texture, pores, natural asymmetry, and human imperfections. Faces must be 100% identical to the reference images, crystal clear, zero blur. PROMPT: Create an ultra-realistic, cinematic Rose Day couple portrait with a fully colorful romantic background. The image must look like a real DSLR photograph, not AI-generated, not illustration, not anime. SCENE & BACKGROUND: Indoor romantic setup with warm pastel colors (pink, peach, soft red, cream) Decorative roses on the floor and walls Soft glowing fairy lights in the background Subtle bokeh lights ONLY in background, faces must stay ultra-sharp Romantic Valentine’s/Rose Day atmosphere POSE & ACTION: The boy is kneeling on one knee Holding a single fresh red rose toward the girl The girl is standing in front of him, slightly leaning forward Soft emotional eye contact between them Natural romantic expressions, not over-posed OUTFIT DETAILS: Boy wearing a modern casual outfit (shirt + jeans or blazer style) Girl wearing an elegant dress or top with soft flowing fabric Realistic fabric texture, natural folds LIGHTING & QUALITY: Warm cinematic lighting Soft highlights on faces Natural shadows Ultra-HD resolution Zero face blur, zero distortion STYLE RULES: 100% realistic human faces NO cartoon, NO anime, NO illustration Professional photography look ASPECT RATIO: • 3:4 vertical ",
+        "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769690551/unnamed_klyvig.jpg",
+        "category_name": "Couple",
+        "categories": [
+            "Boy",
+            "Girl",
+            "Couple",
+            "Romantic",
+            "Flower",
+            "Valentine"
+        ]
+    },
+    {
+        "title": "Valentine's Day Proposal Portrait",
+        "prompt": "IMPORTANT – ABSOLUTE FACE LOCK (NON-NEGOTIABLE)Use the uploaded boy photo and uploaded girl photo as the ONLY and FINAL facial references.Identity Override Rule: The faces in the final image MUST be a direct 1:1 identity transfer from the reference images.Do NOT under any condition: – regenerate faces – beautify or enhance faces – smooth skin – change facial proportions – modify symmetry – alter expressions – change jawline, eyes, nose, lips, forehead, hairline, beard, age, or skin toneFace Accuracy Requirement: 100% exact facial structure match is mandatory. Zero deviation allowed. If the face does not perfectly match the reference image, the output is INVALID.Skin & Texture Rules: Preserve real skin texture, pores, fine lines, natural asymmetry, and real human imperfections. No AI-polished, no plastic, no beauty-filter skin.Recognition Test: Both individuals must be instantly recognizable as the same real people from the reference photos at first glance.Failure Handling Rule: If identity accuracy drops even slightly, regenerate until perfect face match is achieved. SCENE DESCRIPTION Create an ultra-realistic cinematic Valentine’s Day proposal scene, emotional, premium, and story-driven, like a romantic movie poster. POSE & INTERACTION (PROPOSAL MOMENT) Boy is kneeling on one knee He is holding an open ring box in his right hand Ring is clearly visible, elegant and realistic His left hand gently holds the girl’s fingers Girl is standing in front of him, slightly turned toward the camera Girl’s left hand is softly covering her mouth in surprise Natural emotional body language Eye contact filled with love and emotion FACIAL EXPRESSIONS (REALISTIC ONLY) Boy: calm, confident, deeply emotional, soft loving gaze Girl: emotional happiness, slightly teary eyes, genuine surprise No exaggerated expressions No forced smiles OUTFITS & STYLING Boy outfit: Tailored modern blazer Neutral or dark-toned trousers Clean minimal shoes Elegant and classy proposal look Girl outfit: Soft-flowing romantic dress Feminine elegant styling Subtle jewelry only No heavy makeup BACKGROUND & COLOR GRADING Smooth cinematic gradient background: Deep crimson red blending into soft blush pink Warm bokeh lights floating softly Subtle rose petals scattered near the ground Romantic Valentine’s Day ambience CINEMATIC TEXT (VERY IMPORTANT)  LIGHTING & CAMERA Soft cinematic lighting Warm highlights on faces Gentle shadows for depth No harsh light DSLR professional photography look Shallow depth of field Faces in sharp focus, background softly blurred IMAGE QUALITY & REALISM Ultra-HD resolution Hyper-realistic textures Natural skin tones Zero blur on faces Editorial cinematic color grading Realistic shadows and depth NEGATIVE PROMPT (STRICT) cartoon, anime, illustration, CGI, fake faces, AI face regeneration, smooth skin, beauty filters, blur face, low resolution, extra fingers, extra limbs, distorted anatomy, watermark, logo, random text SIGNATURE REQUIREMENT ASPECT RATIO 3:4 vertical",
+        "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769690873/unnamed_mqbrod.jpg",
+        "category_name": "Couple",
+        "categories": [
+            "Boy",
+            "Girl",
+            "Couple",
+            "Romantic",
+            "Valentine"
+        ]
+    },
+    {
         "title": "Little Guardian of Freedom | Republic Day Portrait",
         "prompt": "Use the uploaded photo as the only and exact facial reference. STRICT FACE LOCK is mandatory. Keep the child's face 100% identical with no changes to facial structure, features, skin tone, age, expression, or natural skin texture. Preserve realistic proportions, pores, and authentic human details. No beautification, no smoothing, no AI facial alteration of any kind.\n\nASPECT RATIO:\n3:4 vertical\n\nSCENE & SUBJECT:\nCreate an ultra-realistic 4K HD cinematic patriotic portrait of a young Indian child standing confidently in a lush green open field during golden hour. The child is holding the Indian national flag high with both hands. The tricolor fabric flows naturally in the wind with accurate saffron, white, and green colors. The Ashoka Chakra must be sharp, centered, and clearly visible.\n\nPOSE & EXPRESSION:\nStrong yet innocent posture. Calm, confident, and proud expression. The pose should feel emotional, inspirational, and heroic while remaining natural for a child.\n\nOUTFIT DETAILS:\nSimple traditional white kurta-pyjama with realistic fabric texture and natural folds. Clean, authentic Indian styling.\n\nBACKGROUND & ENVIRONMENT:\nLush green field with soft depth of field. Dramatic yet peaceful sky with warm golden-hour tones. White doves flying gently around the child to symbolize peace and freedom. Add a subtle circular Ashoka Chakra light glow behind the subject, soft and elegant, enhancing the heroic Republic Day mood without overpowering the scene.\n\nLIGHTING & CAMERA:\nWarm golden-hour sunlight with soft highlights and realistic shadows. Professional DSLR photography look. Cinematic color grading, shallow background blur, high dynamic range, and crystal-clear details. The face must remain perfectly sharp.\n\nOUTPUT & STYLE:\nUltra-realistic 4K HD quality. Premium cinematic photography style. Emotional, powerful, and inspirational Republic Day atmosphere with natural colors and lifelike realism.\n\nNEGATIVE PROMPT:\nCartoon, anime, CGI, illustration, AI-generated face, face change, blur, low resolution, over-smoothed skin, plastic skin, distortion, extra fingers, bad anatomy, harsh shadows, dull colors, watermark (except signature), logo, text clutter.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769320530/6bff1e14-553f-4b70-93c0-fc41366d3677-md_h2iov5.jpg",
