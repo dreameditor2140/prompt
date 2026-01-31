@@ -1,6 +1,6 @@
 [
     {
-        "title": "Elegant Birthday Portrait with Tiara and Spotlight",
+        "title": "",
         "prompt": "Based on reference image, the woman with her specific facial features, long wavy brown hair, and silver tiara is shown in a profile pose, blowing out the \"28\" gold candles on the chocolate cake she holds. She wears the same black sequined gown against the grey wall with the dramatic circular spotlight shadow. The studio lighting highlights her and the cake.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769686814/gemini-birthday1_vjquuv.avif",
         "category_name": "Birthday",
@@ -799,3 +799,4 @@
         ]
     }
 ]
+
