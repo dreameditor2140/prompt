@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Preview with Validation</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f3f4f6;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .container {
+            width: 500px;
+            background: #fff;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+            text-align: center;
+        }
+
+        input {
+            width: 90%;
+            padding: 12px;
+            border-radius: 8px;
+            border: 1px solid #ddd;
+            font-size: 16px;
+        }
+
+        img {
+            margin-top: 20px;
+            max-width: 100%;
+            max-height: 400px;
+            border-radius: 10px;
+            display: none;
+        }
+
+        #error {
+            color: red;
+            margin-top: 15px;
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h2>Image Preview</h2>
+
+        <input type="text" placeholder="Paste image URL and press Enter..." onkeypress="handleEnter(event)">
+
+        <div id="error">Invalid image URL or image cannot be loaded.</div>
+        <img id="preview">
+    </div>
+
+    <script>
+        function handleEnter(e) {
+            if (e.key === "Enter") {
+                const url = e.target.value.trim();
+                const img = document.getElementById("preview");
+                const errorDiv = document.getElementById("error");
+
+                if (!url) {
+                    img.style.display = "none";
+                    errorDiv.textContent = "Please enter an image URL.";
+                    errorDiv.style.display = "block";
+                    return;
+                }
+
+                img.src = url;
+                img.style.display = "block";
+                errorDiv.style.display = "none";
+
+                // Error handling if image fails to load
+                img.onerror = function () {
+                    img.style.display = "none";
+                    errorDiv.textContent = "Invalid image URL or image cannot be loaded.";
+                    errorDiv.style.display = "block";
+                }
+
+                // Reset error on successful load
+                img.onload = function () {
+                    errorDiv.style.display = "none";
+                    img.style.display = "block";
+                }
+            }
+        }
+    </script>
+
+</body>
+
+</html>
