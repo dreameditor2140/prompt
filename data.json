@@ -6,9 +6,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769686814/gemini-birthday1_vjquuv.avif",
         "category_name": "Birthday",
         "categories": [
-            "Birthday",
-            "Girl",
-            "Cake"
+            "Birthday"
         ]
     },
     {
@@ -18,9 +16,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769687038/gemini-birthday2_c0spr5.avif",
         "category_name": "Birthday",
         "categories": [
-            "Birthday",
-            "Girl",
-            "Cake"
+            "Birthday"
         ]
     },
     {
@@ -30,9 +26,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769687781/gemini-birthday3_whs1ct.avif",
         "category_name": "Birthday",
         "categories": [
-            "Birthday",
-            "Girl",
-            "Cake"
+            "Birthday"
         ]
     },
     {
@@ -40,12 +34,9 @@
         "title": "1980s Retro Studio Glam",
         "prompt": "Convert my selfie into a highly realistic 4K HD 1980s retro studio glam portrait. Keep my face completely unchanged with accurate skin texture, pores, and natural details. Use dramatic studio lighting with soft highlights and deep shadows, inspired by 1980s fashion photography. Add subtle neon reflections, rich saturation, and clean contrast while maintaining realism. The background should feature a soft gradient or classic studio backdrop with retro vibes. Apply gentle film grain and slight glow for authenticity. Ensure professional sharpness, cinematic depth, and ultra-realistic details that make the image look like a high-end 1980s magazine cover shot on analog film.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769688127/Gemini_Generated_Image_7m6gw7m6gw7m6gw7-768x512_ds5cqc.webp",
-        "category_name": "Girl",
+        "category_name": "Girls",
         "categories": [
-            "Girl",
-            "Retro",
-            "Portrait",
-            "Aesthetic"
+            "Girls"
         ]
     },
     {
@@ -53,12 +44,9 @@
         "title": "1960s Black and White Cinematic Portrait",
         "prompt": "Create a 4K ultra-realistic black-and-white 1960s cinematic portrait using my uploaded selfie. Do not change my facial structure, expression, or identity. Focus on dramatic lighting with strong contrast, inspired by classic European cinema. Add natural shadows that sculpt the face while keeping smooth tonal transitions. Introduce fine film grain and slight softness typical of vintage lenses. The background should be minimal, blurred, and timeless. Maintain sharp focus on eyes and facial details while preserving an authentic old-film look. The final image should feel emotional, cinematic, and realistic, like a still from a classic 1960s black-and-white movie.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769688330/Gemini_Generated_Image_hoijnyhoijnyhoij-768x768_yixmqo.webp",
-        "category_name": "Girl",
+        "category_name": "Girls",
         "categories": [
-            "Girl",
-            "Black and White",
-            "Retro",
-            "Portrait"
+            "Girls"
         ]
     },
     {
@@ -66,12 +54,9 @@
         "title": "1990s Retro Street Portrait",
         "prompt": "Turn my selfie into a hyper-realistic 4K HD 1990s retro street portrait. Keep my face exactly the same with natural skin texture and details. Apply urban daylight lighting with soft shadows and realistic highlights. Use muted yet warm color tones inspired by 1990s film photography. Add subtle grain, natural contrast, and slightly faded colors for authenticity. The background should feel urban and casual, softly blurred to create depth while keeping focus on the subject. Ensure cinematic realism, sharp facial clarity, and a nostalgic street-style atmosphere that looks like it was shot on a 35mm film camera.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769688400/Gemini_Generated_Image_us3fnfus3fnfus3f_iqtsjk.png",
-        "category_name": "Girl",
+        "category_name": "Girls",
         "categories": [
-            "Girl",
-            "Retro",
-            "Street",
-            "Portrait"
+            "Girls"
         ]
     },
     {
@@ -79,11 +64,9 @@
         "title": "Cinematic Red Rose Glam Portrait",
         "prompt": "Create a high-resolution, ultra-realistic, vertical 9:16 cinematic portrait of a stunning woman posing elegantly with a deep red rose held gently near her lips, captured in a luxurious, romantic studio atmosphere. She should wear a sophisticated black lace dress with layered ruffles that flow gracefully around her silhouette, complemented by glamorous makeup featuring bold red lipstick, sharp eyeliner, and flawless, glowing skin. Style her dark, curly hair in an elegant updo with soft, loose strands framing her face for a refined, timeless look. Accessorize with sparkling diamond earrings, a delicate bracelet, and a statement ring to enhance the premium aesthetic. Use dramatic lighting with a warm red backlight and a dark gradient background to create a cinematic, sensual mood with soft shadows and glowing highlights. Emphasize shallow depth of field, realistic skin and fabric textures, rich color grading, and ultra-sharp detail for a high-fashion, photorealistic finish. Use the exact same face and facial structure as the provided reference image with 100% identity accuracy and no alteration.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769688801/instagram-viral-portraits-girls_xohvs7.png",
-        "category_name": "Girl",
+        "category_name": "Girls",
         "categories": [
-            "Girl",
-            "Portrait",
-            "Flower"
+            "Girls"
         ]
     },
     {
@@ -91,12 +74,9 @@
         "title": "Romantic Garden Lifestyle Portrait",
         "prompt": "Create a high-resolution, ultra-realistic, vertical 9:16 cinematic portrait of a beautiful woman standing in a serene white flower garden, captured in a soft, romantic, lifestyle-editorial style. She should have long, rich brown hair styled with a braided crown wrapping gracefully around the top of her head in a half-up look, while the rest of her hair flows down in soft, voluminous waves with subtle face-framing layers or gentle bangs. Dress her in a stylish black striped dress that contrasts elegantly with the bright floral surroundings. Pose her holding a single white flower delicately in one hand, looking directly toward the viewer with a calm, warm expression. Use natural daylight with soft, flattering shadows, shallow depth of field, creamy background bokeh, and realistic skin and fabric textures to enhance the dreamy garden atmosphere. Render in ultra-sharp detail with cinematic color grading and a premium, photorealistic finish. Use the exact same face and facial structure as the provided reference image with 100% identity accuracy and no alteration.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769688864/unnamed_xtcc4s.jpg",
-        "category_name": "Girl",
+        "category_name": "Girls",
         "categories": [
-            "Girl",
-            "Portrait",
-            "Nature",
-            "Flower"
+            "Girls"
         ]
     },
     {
@@ -104,12 +84,9 @@
         "title": "Luxury Street Editorial Portrait with Sports Car",
         "prompt": "IMPORTANT – FACE LOCK (STRICT – MUST FOLLOW) Use the uploaded photo as the ONLY facial reference. Do NOT change facial structure, jawline, eyes shape, nose, lips, skin tone, beard, hairline, age, or expression. No beautification, no smoothing, no AI face regeneration or replacement. Preserve real skin texture, pores, micro-details, natural asymmetry. Face must be 100% identical, instantly recognizable, ultra-sharp HD clarity, zero blur. PROMPT: Ultra-realistic 8K cinematic fashion photograph, premium luxury street style, ASPECT RATIO: 3:4 vertical. SUBJECT: An 18-year young stylish man with slim skinny body, lean physique, narrow shoulders and waist, youthful proportions. Face taken exactly from the uploaded reference image, perfect 100% match. POSE & BODY LANGUAGE: Half-body framing Subject standing confidently in front of an orange luxury sports car Torso facing forward Head turned slightly to the left One hand adjusting matte black sunglasses at the temple Other hand placed confidently inside jacket pocket Chin slightly raised, shoulders squared Editorial magazine-cover stance FACIAL EXPRESSION: Calm, fearless, dominant Neutral lips Sharp intense eyes No smile, no exaggeration HAIRSTYLE: Exactly same hairstyle as reference image Modern textured side-swept quiff Heavy natural volume on top Soft matte finish Visible individual hair strands NO hard fade, NO haircut change OUTFIT DETAILS: Orange patterned windbreaker jacket Ultra-realistic fabric texture with natural folds Detailed stitching visible Black loose-fit pants (partially visible) ENVIRONMENT: Suburban house exterior Driveway with greenery Orange sports car centered behind subject Background softly separated, realistic depth LIGHTING: Cinematic top-side natural lighting Sculpted highlights on face and jacket Soft realistic shadows No artificial glow CAMERA & QUALITY: Professional DSLR look 50mm lens Eye-level half-body shot Ultra-sharp focus on face and sunglasses No noise, no blur COLOR GRADING & MOOD: Warm orange highlights Balanced teal shadows High-end cinematic contrast Luxury street editorial mood. NEGATIVE PROMPT: face change, AI look, beautification, smooth skin, blur, cartoon, anime, illustration, CGI, watermark, logo, extra limbs, distorted anatomy",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769689066/unnamed_ctoqsw.jpg",
-        "category_name": "Men",
+        "category_name": "Boys",
         "categories": [
-            "Boy",
-            "Men",
-            "Car",
-            "Portrait"
+            "Boys"
         ]
     },
     {
@@ -117,13 +94,9 @@
         "title": "Luxury Street Fashion Portrait with Sports Car",
         "prompt": "IMPORTANT – FACE LOCK (STRICT – MUST FOLLOW) Use the uploaded photo as the ONLY facial reference. Do NOT change facial structure, jawline, eyes shape, nose, lips, skin tone, beard, hairline, age, or expression. No beautification, no smoothing, no AI face regeneration or replacement. Preserve real skin texture, pores, micro-details, natural asymmetry. Face must be 100% identical, instantly recognizable, ultra-sharp HD clarity, zero blur. PROMPT: Ultra-realistic 8K cinematic street-fashion portrait, luxury editorial look, ASPECT RATIO: 3:4 vertical. SUBJECT: Same young man from reference image with 100% exact facial match and natural skin detail. POSE & BODY LANGUAGE: Half-body framing Subject leaning slightly against the front fender of the orange sports car Body angled about 10–15° toward camera One arm resting casually on car hood Other hand relaxed near waist Head slightly tilted down Eyes looking forward through sunglasses Calm, dominant luxury stance FACIAL EXPRESSION: Cold, composed confidence Neutral lips Strong jaw presence No smile HAIRSTYLE: Exactly same hairstyle as reference Textured side-swept quiff Natural volume and strand separation No alteration allowed OUTFIT DETAILS: Matte black lightweight bomber jacket Inner black t-shirt with realistic cotton texture Black loose-fit pants Minimal silver wrist accessory ENVIRONMENT: Same suburban driveway Orange sports car positioned diagonally House facade and greenery visible Realistic reflections on car paint LIGHTING: Soft natural daylight Gentle rim light on shoulders and hair Balanced highlights on face Realistic shadow depth CAMERA & QUALITY: DSLR photography style 50mm lens Eye-level framing Ultra-sharp face clarity Natural separation, no fake blur COLOR GRADING & MOOD: Warm cinematic tones Deep blacks High-contrast luxury street aesthetic. NEGATIVE PROMPT: face mismatch, AI regeneration, beautification, blur, anime, cartoon, illustration, CGI, artifacts, watermark, logo, extra fingers",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769689364/unnamed_mlm83b.jpg",
-        "category_name": "Men",
+        "category_name": "Boys",
         "categories": [
-            "Boy",
-            "Men",
-            "Street",
-            "Fashion",
-            "Portrait"
+            "Boys"
         ]
     },
     {
@@ -131,13 +104,9 @@
         "title": "Luxury Street Portrait with BMW M8",
         "prompt": "IMPORTANT – FACE LOCK (MUST FOLLOW STRICTLY) Use the uploaded photo as the ONLY facial reference. Do NOT change facial structure, jawline, eyes shape, nose, lips, skin tone, beard, hairline, age, or expression. No beautification, no smoothing, no AI face regeneration or replacement. Preserve real skin texture, pores, fine details, natural asymmetry. Face must be 100% identical and instantly recognizable, ultra-HD clarity, zero blur. PROMPT: Ultra-realistic 8K cinematic street portrait, luxury automotive editorial vibe, ASPECT RATIO: 3:4 vertical. SUBJECT: Same young man from the reference image with 100% exact facial match and natural skin texture. POSE & BODY LANGUAGE: Half-body framing Subject leaning against the front fender of a white BMW M8 Competition One elbow resting on the car Other hand holding sunglasses loosely Head tilted slightly downward Eyes looking straight at the camera Relaxed but dominant posture FACIAL EXPRESSION: Cool, controlled confidence Neutral expression Sharp eyes No smile HAIRSTYLE: Exactly same hairstyle as reference Natural flow and volume No alteration allowed OUTFIT DETAILS: White oversized premium hoodie Black tapered trousers White luxury sneakers Minimal black wrist accessory CAR DETAILS: BMW M8 Competition (pearl white) Aggressive grille and sporty lines Realistic paint reflections Correct proportions and detailing ENVIRONMENT: Open urban parking space Concrete ground Minimal background distractions Clean modern city feel LIGHTING: Soft natural daylight Even face illumination Gentle rim light separating subject from car No harsh shadows CAMERA & QUALITY: DSLR photography style 50mm lens Eye-level framing Ultra-sharp face clarity Zero motion blur COLOR GRADING & MOOD: Clean high-contrast grading White and neutral tones dominance Modern luxury street mood. NEGATIVE PROMPT: face mismatch, AI regeneration, beautification, blur, anime, cartoon, illustration, CGI, artifacts, watermark, logo, extra fingers",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769689501/unnamed_kjkuj4.jpg",
-        "category_name": "Men",
+        "category_name": "Boys",
         "categories": [
-            "Boy",
-            "Men",
-            "Street",
-            "Fashion",
-            "Portrait"
+            "Boys"
         ]
     },
     {
@@ -145,11 +114,9 @@
         "title": "Dark Fine-Art Portrait with Horse",
         "prompt": "Dark moody fine-art full body portrait of a handsome man (100% same face, same messy hair, defined beard) wearing a heavy knit turtleneck and oversized black trousers. He stands leaning against an aged wooden stable doorway, one leg crossed, looking forward with a mysterious, intense masculine look. A powerful grey horse with a deep black mane stands beside him, the man’s hand resting calmly on its neck. Background: dramatic low-key lighting, deep shadows, soft spotlight on the man and horse, textured wooden walls, fog-like atmosphere. High contrast, fine-art photography style, ultra realistic 8K.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769689635/Gemini_Generated_Image_mykv3mykv3mykv3m_udpwei.webp",
-        "category_name": "Men",
+        "category_name": "Boys",
         "categories": [
-            "Men",
-            "Horse",
-            "Portrait"
+            "Boys"
         ]
     },
     {
@@ -157,12 +124,9 @@
         "title": "Golden Hour Portrait with Horse",
         "prompt": "Cinematic golden-hour full body shot of a young man (100% same face, natural messy hair and beard) wearing a thick textured turtleneck sweater, loose black trousers, and rugged black boots. He leans against a wooden stable entrance, one foot crossed over the other, looking into the warm sunset with a heroic, attractive expression. A strong grey horse with a dark mane stands next to him, gently nudged by his hand. Golden sunlight silhouettes the man and horse, creating dramatic rim lighting, warm orange glow, long shadows, and a western countryside atmosphere. Hyper-realistic, crisp details, cinematic depth.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769689651/Gemini_Generated_Image_igprpjigprpjigpr_csgmk9.webp",
-        "category_name": "Men",
+        "category_name": "Boys",
         "categories": [
-            "Boy",
-            "Men",
-            "Horse",
-            "Portrait"
+            "Boys"
         ]
     },
     {
@@ -170,12 +134,9 @@
         "title": "Golden Hour Western Portrait with Horse",
         "prompt": "Cinematic golden-hour full body shot of a young man (100% same face, natural messy hair, defined beard) wearing a warm chunky turtleneck sweater, long black trousers, and rugged leather boots. He leans with confident ease against a wide wooden stable frame, one foot resting over the other. His gaze is fixed on the glowing sunset with a soft heroic expression. A tall grey horse with a flowing dark mane stands close, its muzzle gently touching the man’s arm. The golden sunlight creates stunning rim-light along the man’s shoulders and hair, long dramatic shadows behind them, and a dusty countryside atmosphere. Hyper-realistic textures, cinematic depth of field, warm western color palette, ultra crisp details.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769689780/unnamed_fftgz4.jpg",
-        "category_name": "Men",
+        "category_name": "Boys",
         "categories": [
-            "Boy",
-            "Men",
-            "Horse",
-            "Portrait"
+            "Boys"
         ]
     },
     {
@@ -185,12 +146,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769690086/unnamed_yiyxu7.jpg",
         "category_name": "Couple",
         "categories": [
-            "Boy",
-            "Girl",
-            "Couple",
-            "Portrait",
-            "Romantic",
-            "Valentine"
+            "Couple"
         ]
     },
     {
@@ -200,11 +156,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769690261/unnamed_qw07qy.jpg",
         "category_name": "Couple",
         "categories": [
-            "Boy",
-            "Girl",
-            "Couple",
-            "Romantic",
-            "Valentine"
+            "Couple"
         ]
     },
     {
@@ -214,11 +166,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769690403/unnamed_freqhh.jpg",
         "category_name": "Couple",
         "categories": [
-            "Boy",
-            "Girl",
-            "Couple",
-            "Romantic",
-            "Valentine"
+            "Couple"
         ]
     },
     {
@@ -228,12 +176,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769690551/unnamed_klyvig.jpg",
         "category_name": "Couple",
         "categories": [
-            "Boy",
-            "Girl",
-            "Couple",
-            "Romantic",
-            "Flower",
-            "Valentine"
+            "Couple"
         ]
     },
     {
@@ -243,11 +186,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769690873/unnamed_mqbrod.jpg",
         "category_name": "Couple",
         "categories": [
-            "Boy",
-            "Girl",
-            "Couple",
-            "Romantic",
-            "Valentine"
+            "Couple"
         ]
     },
     {
@@ -255,10 +194,9 @@
         "title": "Little Guardian of Freedom | Republic Day Portrait",
         "prompt": "Use the uploaded photo as the only and exact facial reference. STRICT FACE LOCK is mandatory. Keep the child's face 100% identical with no changes to facial structure, features, skin tone, age, expression, or natural skin texture. Preserve realistic proportions, pores, and authentic human details. No beautification, no smoothing, no AI facial alteration of any kind.\n\nASPECT RATIO:\n3:4 vertical\n\nSCENE & SUBJECT:\nCreate an ultra-realistic 4K HD cinematic patriotic portrait of a young Indian child standing confidently in a lush green open field during golden hour. The child is holding the Indian national flag high with both hands. The tricolor fabric flows naturally in the wind with accurate saffron, white, and green colors. The Ashoka Chakra must be sharp, centered, and clearly visible.\n\nPOSE & EXPRESSION:\nStrong yet innocent posture. Calm, confident, and proud expression. The pose should feel emotional, inspirational, and heroic while remaining natural for a child.\n\nOUTFIT DETAILS:\nSimple traditional white kurta-pyjama with realistic fabric texture and natural folds. Clean, authentic Indian styling.\n\nBACKGROUND & ENVIRONMENT:\nLush green field with soft depth of field. Dramatic yet peaceful sky with warm golden-hour tones. White doves flying gently around the child to symbolize peace and freedom. Add a subtle circular Ashoka Chakra light glow behind the subject, soft and elegant, enhancing the heroic Republic Day mood without overpowering the scene.\n\nLIGHTING & CAMERA:\nWarm golden-hour sunlight with soft highlights and realistic shadows. Professional DSLR photography look. Cinematic color grading, shallow background blur, high dynamic range, and crystal-clear details. The face must remain perfectly sharp.\n\nOUTPUT & STYLE:\nUltra-realistic 4K HD quality. Premium cinematic photography style. Emotional, powerful, and inspirational Republic Day atmosphere with natural colors and lifelike realism.\n\nNEGATIVE PROMPT:\nCartoon, anime, CGI, illustration, AI-generated face, face change, blur, low resolution, over-smoothed skin, plastic skin, distortion, extra fingers, bad anatomy, harsh shadows, dull colors, watermark (except signature), logo, text clutter.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769320530/6bff1e14-553f-4b70-93c0-fc41366d3677-md_h2iov5.jpg",
-        "category_name": "Republic Day",
+        "category_name": "India",
         "categories": [
-            "India",
-            "Baby"
+            "India"
         ]
     },
     {
@@ -266,10 +204,9 @@
         "title": "Tiny Tricolor Smile | Republic Day Baby Portrait",
         "prompt": "Create a high-quality, ultra-realistic photograph of an Indian baby sitting comfortably on a road or open pathway during Republic Day celebrations. The baby is holding a small Indian national flag with accurate saffron, white, and green colors and a clearly visible Ashoka Chakra.\n\nSUBJECT DETAILS:\nAn Indian baby with an innocent, natural smile and expressive eyes. Realistic baby proportions, natural skin texture, soft facial details, and authentic child realism. No artificial beautification or exaggeration.\n\nOUTFIT DETAILS:\nThe baby is wearing tricolor-themed clothes inspired by saffron, white, and green. Clothing should look soft, comfortable, and realistic for a baby.\n\nPOSE & EXPRESSION:\nBaby sitting naturally on the road, holding the flag gently. Innocent smile, joyful and curious expression, warm and festive Republic Day mood.\n\nBACKGROUND & ENVIRONMENT:\nOutdoor Indian setting with a road or pathway visible. Background should be softly blurred with greenery or subtle urban elements, creating a shallow depth of field and keeping focus on the baby.\n\nLIGHTING & STYLE:\nSoft natural daylight with gentle shadows. Realistic baby photography style. DSLR-quality look with natural colors, smooth bokeh, and high clarity.\n\nOUTPUT & QUALITY:\nHigh-resolution, photorealistic image with clean details, realistic textures, and a warm, emotional Republic Day celebration atmosphere.\n\nNEGATIVE PROMPT:\nCartoon, anime, CGI, illustration, AI-generated face, unnatural baby features, blur, low resolution, noise, artifacts, distortion, harsh lighting, oversaturated colors, watermark (except signature), logo.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769321143/3_wweeeq.webp",
-        "category_name": "Republic Day",
+        "category_name": "India",
         "categories": [
-            "India",
-            "Baby"
+            "India"
         ]
     },
     {
@@ -277,10 +214,9 @@
         "title": "Little Patriot | Republic Day Joy",
         "prompt": "Use the uploaded photo as the only facial reference. STRICT FACE LOCK is mandatory. Keep the kid's face 100% identical with no change to facial features, shape, skin tone, age, expression, or natural skin texture. Preserve authentic child realism. No beautification, no smoothing, no AI facial alteration of any kind.\n\nASPECT RATIO:\n3:4 vertical\n\nSUBJECT & SCENE:\nA young Indian kid wearing a plain white ethnic dress (kurta-style or simple traditional outfit) is standing in a park or open ground. The child is holding 2–3 bunches of balloons in saffron, white, and green colors, spread gently in front of the kid.\n\nEXPRESSION & POSE:\nNatural, joyful smile with an innocent and happy Republic Day celebration mood. Relaxed, childlike posture, standing comfortably and confidently.\n\nBALLOON DETAILS:\nBalloons should be glossy, realistic, and clearly visible in tricolor shades (saffron, white, green). Natural string movement and slight wind interaction for realism.\n\nBACKGROUND & ENVIRONMENT:\nAuthentic Indian park or open ground with lush greenery in the background. Trees, grass, and soft natural elements. Background should be softly blurred to keep focus on the child.\n\nLIGHTING & STYLE:\nSoft natural daylight with gentle shadows. Realistic child photography style. DSLR-quality look with shallow depth of field. Natural colors and high clarity.\n\nOUTPUT & QUALITY:\nHigh-clarity, hyper-realistic image with natural skin texture, realistic fabric folds, and true-to-life lighting. Warm, emotional, and festive Republic Day atmosphere.\n\nNEGATIVE PROMPT:\nCartoon, anime, CGI, illustration, AI-generated face, face change, different child, beauty filter, skin smoothing, blur, low resolution, noise, artifacts, distortion, bad anatomy, extra fingers, unrealistic lighting, watermark (except signature), logo.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769320237/60a76f30-cb8e-4dc9-9670-cf24d31fbb1b-md_hd9pko.jpg",
-        "category_name": "Republic Day",
+        "category_name": "India",
         "categories": [
-            "India",
-            "Baby"
+            "India"
         ]
     },
     {
@@ -288,10 +224,9 @@
         "title": "Fields of Freedom | Republic Day Portrait",
         "prompt": "Use the uploaded photo as the one and only facial reference. STRICT FACE LOCK is mandatory. Keep my face 100% identical with exact facial features, skin tone, age, hairline, expression, and natural human skin texture unchanged. Preserve pores, realism, and original identity. No face change, no beautification, no smoothing, no AI facial alteration of any kind.\n\nASPECT RATIO:\n3:4 vertical\n\nSCENE & SUBJECT:\nCreate a hyper-realistic 4K HD patriotic portrait of me standing confidently in an open green field. The background should be natural and softly blurred, creating a clean cinematic depth of field while keeping the face perfectly sharp.\n\nFLAG DETAILS:\nA large Indian national flag is waving behind me or positioned just behind my body. The tricolor must be clearly visible with accurate saffron, white, and green tones. The Ashoka Chakra on the white stripe should be sharp, centered, and correctly proportioned. The flag should show realistic wind-driven motion and ultra-detailed fabric texture.\n\nPOSE & EXPRESSION:\nGraceful, confident standing pose. Calm, confident, and proud patriotic expression. Natural body posture, elegant and dignified.\n\nOUTFIT & STYLING:\nOutfit inspired by the Indian tricolor theme with elegant traditional styling. Clean, premium look. Add subtle patriotic face paint in tricolor on one cheek, realistic and minimal, not exaggerated.\n\nBACKGROUND & ENVIRONMENT:\nOpen green field with soft natural elements in the distance. Background should remain unobtrusive and blurred, enhancing focus on the subject. Outdoor national atmosphere, peaceful and proud.\n\nLIGHTING & CAMERA:\nSoft diffused cinematic daylight. DSLR photography look with shallow depth of field. Sharp focus on the face, natural shadows, high dynamic range, realistic colors, and professional color grading.\n\nOUTPUT & STYLE:\nUltra-sharp 4K HD resolution. Hyper-realistic textures for skin, clothing, and flag. Premium cinematic photography style. Natural realism throughout.\n\nNEGATIVE PROMPT:\nCartoon, Anime, CGI, Illustration, AI-generated face, face change, different person, beauty filter, skin smoothing, blur, low resolution, noise, artifacts, distortion, bad anatomy, extra fingers, watermark (except signature), logo, text errors, overexposed, underexposed, harsh lighting.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769319952/e0a15c18-44f7-4a2e-b55c-c46428b5eb2b-md_ob9jta.jpg",
-        "category_name": "Republic Day",
+        "category_name": "India",
         "categories": [
-            "India",
-            "Girl"
+            "India"
         ]
     },
     {
@@ -299,10 +234,9 @@
         "title": "Winds of Freedom | Republic Day Portrait",
         "prompt": "Use only the uploaded photo as the exact and sole facial reference. STRICT FACE LOCK is mandatory. Keep my face 100% identical with no changes to facial shape, features, skin tone, age, expression, hairline, or identity. Preserve natural human skin texture, pores, and realism. No beautification, no smoothing, no AI facial alteration of any kind.\n\nASPECT RATIO:\n3:4 vertical\n\nSCENE & SUBJECT:\nCreate a hyper-realistic 4K HD cinematic Republic Day portrait of a confident Indian person standing proudly. The subject is holding the Indian national flag on a wooden flagpole. The tricolor flag is waving naturally in the wind with realistic fabric flow. The Ashoka Chakra must be clearly visible, accurate, and proportionally correct.\n\nPOSE & EXPRESSION:\nHeroic yet graceful posture. Body upright and confident. Subject looking slightly upward with pride, confidence, and patriotic emotion. Expression should feel calm, powerful, and inspirational.\n\nOUTFIT & STYLING:\nElegant white traditional outfit with subtle green accents. A flowing saffron dupatta or scarf moving dynamically in the air, symbolizing patriotism and freedom. Styling should be clean, dignified, and realistic.\n\nBACKGROUND & ENVIRONMENT:\nDramatic cinematic sky with soft clouds. Tricolor-inspired color grading in the environment: saffron tones, soft white light rays, and gentle green hues. Subtle flying particles in the air for depth and emotion. Natural sunlight creating a premium, emotional Republic Day atmosphere.\n\nLIGHTING & CAMERA:\nUltra-sharp focus with DSLR-quality lighting. Natural sunlight, realistic shadows, professional photography style. Shallow depth of field with high dynamic range. Face must remain perfectly sharp and clear at all times.\n\nOUTPUT & STYLE:\nHyper-realistic 4K HD quality. Cinematic, premium, emotionally powerful Republic Day look. Natural color grading, realistic textures, no artificial effects.\n\nNEGATIVE PROMPT:\nCartoon, anime, CGI, illustration, AI-generated face, face change, facial distortion, beauty filter, over-smoothed skin, blur, low resolution, noise, artifacts, extra fingers, bad anatomy, unrealistic lighting, fake textures, watermark (except signature), logo, text on face, oversaturation, dull colors.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769319823/5725a900-bd18-4355-8152-428554955ef0-md_meajfm.jpg",
-        "category_name": "Republic Day",
+        "category_name": "India",
         "categories": [
-            "India",
-            "Girl"
+            "India"
         ]
     },
     {
@@ -310,10 +244,9 @@
         "title": "Together for the Tiranga | Republic Day Couple Portrait",
         "prompt": "Create a cinematic double exposure Republic Day poster featuring a couple. Use the same two people consistently across the composition. Faces should remain natural and realistic, with no artificial reshaping or beauty filters. Preserve real skin texture, expressions, and identity.\n\nCOMPOSITION:\nDouble exposure layout with layered portraits of the couple.\n\nBACKGROUND (FIRST EXPOSURE):\nVery large, soft, faded background faces of the couple placed artistically behind the main subjects. Apply heavy Gaussian blur, low contrast, and a dreamy effect at around 15–20% opacity. The background faces should feel emotional and symbolic, not sharp.\n\nBACKGROUND COLORS:\nMisty Indian tricolor blend flowing across the background: saffron hues at the top, soft white fog/mist in the middle, and green tones at the bottom. Smooth, cinematic blending.\n\nFOREGROUND (SECOND EXPOSURE):\nA sharp, ultra-clear foreground portrait of the couple in a confident yet calm pose. Natural, realistic skin texture, gentle patriotic expressions, and strong emotional presence. DSLR-level sharpness with shallow depth of field.\n\nOUTFIT DETAILS:\nWhite traditional-modern outfits for both individuals. Clean, elegant styling with subtle ethnic touches. Minimal jewelry and accessories only, refined and understated.\n\nMOOD & EXPRESSION:\nCalm, proud, patriotic, and emotionally connected. A sense of unity, togetherness, and respect for the nation.\n\nTEXT ELEMENTS:\nAdd bold condensed text reading:\n\"HAPPY REPUBLIC DAY\" or \"REPUBLIC DAY\" in Indian tricolor colors.\nPlace the text neatly at the bottom or center. Optionally add a small italic patriotic quote beneath it in white.\n\nLIGHTING & STYLE:\nSoft cinematic lighting with realistic shadows and highlights. DSLR-like photorealistic quality, cinematic color grading, emotional and inspirational Republic Day poster aesthetic.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769318994/ffc55513-5e33-4724-b4df-2215aca0d1b3-md_ulipho.jpg",
-        "category_name": "Republic Day",
+        "category_name": "India",
         "categories": [
-            "India",
-            "Couple"
+            "India"
         ]
     },
     {
@@ -321,10 +254,9 @@
         "title": "Pride of the Nation | Republic Day 2026",
         "prompt": "Use the uploaded photo as the only facial reference. STRICT FACE LOCK is mandatory. Keep my face 100% identical with the same facial structure, skin tone, eyes, nose, lips, hairline, age, beard, and natural skin texture. Do not change, edit, beautify, reshape, smooth, or modify the face in any way. No AI facial alteration of any kind. Face must look exactly like real human photography.\n\nASPECT RATIO:\n3:4 vertical\n\nSCENE & SUBJECT:\nCreate a hyper-realistic cinematic Republic Day 2026 patriotic portrait in 4K ultra-sharp quality. I am standing confidently and proudly, facing the camera with direct eye contact. The pose should feel elegant, powerful, and patriotic, expressing national pride and strength.\n\nFLAG & POSE DETAILS:\nThe Indian National Flag is wrapped around my shoulders like a shawl, flowing naturally with realistic fabric folds. Saffron, white, and green colors must be accurate. The Ashoka Chakra on the white stripe should be clearly visible and correctly proportioned.\n\nOUTFIT DETAILS:\nSimple white traditional or modern attire with a clean, realistic appearance. No flashy elements. Minimal and dignified styling.\n\nBACKGROUND & ENVIRONMENT:\nRed Fort (Lal Qila), New Delhi, visible in the background with cinematic depth of field. Clear blue sky and a grand national atmosphere. Background should feel realistic, majestic, and not artificial.\n\nLIGHTING & CAMERA:\nProfessional golden-hour lighting with warm highlights on the face and flag. Realistic shadows. DSLR photography look with sharp focus and natural colors. Cinematic depth of field while keeping the face perfectly sharp.\n\nTEXT ELEMENT:\nAdd subtle, elegant text at the top reading: \"Happy Republic Day 2026\". The text should blend naturally into the scene without overpowering the subject or covering the face.\n\nOUTPUT & STYLE:\n4K HD ultra-sharp resolution. Photorealistic skin texture. Cinematic, premium, and highly realistic human photography style.\n\nNEGATIVE PROMPT:\nCartoon, Anime, CGI, Illustration, AI-generated face, Face change, Facial distortion, Blur, Low resolution, Over-smoothed skin, Unrealistic lighting, Watermark (except signature).",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769319606/4290dd62-c8bd-4c9d-a805-2fc1aeb02734-md_voairi.jpg",
-        "category_name": "Republic Day",
+        "category_name": "India",
         "categories": [
-            "India",
-            "Girl"
+            "India"
         ]
     },
     {
@@ -332,10 +264,9 @@
         "title": "Reflections of Freedom | Republic Day Double Exposure",
         "prompt": "Create a cinematic double exposure Republic Day poster using the same person. Keep the face exactly the same as the uploaded reference photo. Do not change, edit, reshape, beautify, or modify the face in any way. Face must remain 100% identical, preserving original skin texture, facial structure, expression, and identity.\n\nCOMPOSITION:\nDouble exposure layout with two portraits of the same person.\n\nBACKGROUND PORTRAIT:\nA very large, soft, faded portrait of the same person in the background. Apply heavy Gaussian blur, low contrast, and a dreamy look at 15–20% opacity. The background face should feel ghosted and atmospheric, not sharp or distracting.\n\nBACKGROUND COLORS:\nVertical Indian tricolor gradient blending smoothly behind the background portrait: saffron at the top, soft white mist in the middle, and green at the bottom.\n\nFOREGROUND PORTRAIT:\nA sharp, ultra-clear, high-contrast portrait of the same person in the foreground. Realistic skin texture, natural facial details, and a calm, confident patriotic expression. DSLR-quality clarity with shallow depth of field.\n\nOUTFIT DETAILS:\nClean white shirt with a neat, elegant fit. Minimal jewelry only, subtle and realistic. No flashy accessories.\n\nTEXT ELEMENTS:\nBottom-center bold condensed text reading:\n“HAPPY REPUBLIC DAY”\n– HAPPY in saffron\n– REPUBLIC in white\n– DAY in green\nBelow the main text, add a small italic patriotic quote in white, subtle and refined.\n\nLIGHTING & STYLE:\nDSLR-like photorealistic look with cinematic color grading. Soft highlights, balanced contrast, realistic shadows, emotional and inspirational Republic Day mood.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769318858/image-208_x6zpmp.png",
-        "category_name": "Republic Day",
+        "category_name": "India",
         "categories": [
-            "India",
-            "Girl"
+            "India"
         ]
     },
     {
@@ -343,10 +274,9 @@
         "title": "Echoes of Tiranga | Cinematic Republic Day Portrait",
         "prompt": "Create a cinematic Republic Day poster using a double exposure style with the same person. Keep the face exactly the same as the uploaded reference photo. Do not change, edit, reshape, beautify, or modify the face in any way. Face must remain 100% identical, preserving original skin texture, facial structure, expression, and identity.\n\nCOMPOSITION:\nDouble exposure poster layout.\n\nBACKGROUND (FIRST EXPOSURE):\nA very large headshot portrait of the same person placed in the background. The portrait should be soft, heavily Gaussian blurred, low contrast, and dreamy, with 15–20% opacity. It should feel subtle and atmospheric, not distracting. This background portrait should blend smoothly into a vertical tricolor gradient.\n\nGRADIENT BACKGROUND:\nVertical Indian tricolor gradient with saffron at the top, soft white mist in the middle, and green at the bottom. Smooth blending with no harsh edges.\n\nFOREGROUND (SECOND EXPOSURE):\nA sharp, ultra-clear portrait of the same person placed prominently in the foreground. High clarity with realistic skin texture, natural details, and a calm, proud, patriotic expression. No over-smoothing or artificial effects.\n\nOUTFIT DETAILS:\nClean white shirt, neatly styled. Minimal accessories only. Simple, elegant, and patriotic look.\n\nTEXT ELEMENTS:\nAt the bottom center, add bold, flat, condensed typography reading:\n“HAPPY REPUBLIC DAY”\n– HAPPY in saffron color\n– REPUBLIC in white\n– DAY in green\nBelow it, add a small italic patriotic quote in white, subtle and elegant.\n\nLIGHTING & STYLE:\nDSLR-like photorealistic look with cinematic color grading. Soft highlights, balanced contrast, shallow depth of field. Emotional, proud, and inspirational Republic Day mood.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769318586/image-206_ukwehz.png",
-        "category_name": "Republic Day",
+        "category_name": "India",
         "categories": [
-            "India",
-            "Men"
+            "India"
         ]
     },
     {
@@ -354,10 +284,9 @@
         "title": "realistic man standing with national flag",
         "prompt": "Create a HYPER-REALISTIC, ULTRA-HIGH-DEFINITION 8K CINEMATIC PORTRAIT. IMPORTANT – FACE LOCK Keep the subject's real face exactly the same as the uploaded reference photo. Do NOT change facial structure, eyes, nose, lips, jawline, beard, hairline, age, or skin tone. No beautification, no smoothing, no AI face alteration. Preserve natural skin texture, pores, asymmetry, and real human details. The person must be instantly recognizable as the same individual. SUBJECT • One young Indian man (20–28) • Lean, confident posture • Calm, proud, patriotic expression • Natural skin texture with visible pores POSE & BODY LANGUAGE • Full-body standing pose • Body facing slightly sideways, head turned toward camera • Left hand resting gently on a stone pedestal • Right hand relaxed by the side • Chest open, shoulders straight, confident stance OUTFIT DETAILS • Clean white traditional kurta (full sleeves, natural cotton texture) • Tricolor scarf (saffron, white, green) draped neatly around the neck • Small round chest badge clearly reading \"BHARAT\" • Outfit crisp, elegant, and patriotic ASHOKA STAMBH DETAILS • Bronze-colored Lion Capital of Ashoka placed on a weathered stone pedestal • Four lions carved with historical accuracy • Realistic metal texture, soft patina • Fresh red rose petals scattered naturally around the base BACKGROUND • Large Indian national flag waving on a tall flagpole • Tricolor vivid and accurate, Ashoka Chakra sharp and centered • Mist-covered green mountains in the distance • Peaceful, majestic atmosphere LIGHTING & CAMERA • Soft golden-hour sunlight from one side • Warm highlights on face, kurta, and statue • Gentle shadows for depth • Cinematic depth of field (sharp foreground, softly blurred background) • DSLR-style focus, professional color grading QUALITY & STYLE • Ultra-realistic textures • 8K resolution • High dynamic range • Patriotic, peaceful, inspirational mood ASPECT RATIO • 3:4",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769316858/Gemini_Generated_Image_kdqwkskdq_u5uafw.png",
-        "category_name": "Republic Day",
+        "category_name": "India",
         "categories": [
-            "India",
-            "Men"
+            "India"
         ]
     },
     {
@@ -365,10 +294,9 @@
         "title": "Spirit of India | Flag Close to the Heart",
         "prompt": "A PROUD YOUNG INDIAN MAN STANDING AGAINST A DARK BACKGROUND, WRAPPED IN THE INDIAN NATIONAL FLAG (TRICOLOR WITH SAFFRON, WHITE, AND GREEN), HOLDING IT CLOSE TO HIS CHEST WITH ONE HAND. HE HAS SHORT, NEATLY STYLED HAIR, A TRIMMED BEARD, AND IS WEARING GLASSES AND A SMARTWATCH. THE ASHOKA CHAKRA ON THE WHITE STRIPE IS CLEARLY VISIBLE. THE LIGHTING IS DRAMATIC AND FOCUSED ON HIS FACE, CREATING A BOLD, PATRIOTIC, AND EMOTIONAL ATMOSPHERE.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769317758/26-January-Ai-Photo-Editing-Prompts-400x600_nkylsc.webp",
-        "category_name": "Republic Day",
+        "category_name": "India",
         "categories": [
-            "India",
-            "Men"
+            "India"
         ]
     },
     {
@@ -376,10 +304,9 @@
         "title": "Silent Pride | Republic Day Coastal Portrait",
         "prompt": "Create an ultra-realistic 8K cinematic vertical portrait using the uploaded image as the only facial reference. STRICT FACE LOCK IS MANDATORY. Do not change, edit, enhance, reshape, beautify, smooth, age, or modify the face in any way. Exact match of eyes, nose, lips, jawline, beard, skin tone, texture, and identity is required. No AI facial alteration of any kind.\n\nASPECT RATIO:\n3:4 vertical\n\nSCENE & POSE (POSE TYPE 2 – DIFFERENT):\nEarly morning cinematic portrait. A stylish young man is sitting on a large coastal rock near the sea. Knees slightly bent. The Indian national flag is gently draped across his shoulders and resting on his lap. One elbow rests on his knee, with the hand lightly holding the edge of the flag. Head slightly tilted, eyes looking into the distance (not directly at the camera). Expression shows emotional pride, silent respect, and thoughtful patriotism.\n\nOUTFIT & STYLING (DRESS CODE 2 – DIFFERENT):\nLight beige oversized linen shirt with rolled sleeves. Soft khaki wide-leg trousers. Barefoot for a grounded, natural look. No heavy accessories. Pure, minimal, realistic styling.\n\nFLAG DETAILS:\nIndian national flag with accurate saffron, white, and green colors. Ashoka Chakra clearly visible and correctly proportioned. Fabric should look natural and gently flowing.\n\nBACKGROUND & ENVIRONMENT:\nCalm sea with cool blue tones. Soft mist in the distance. Natural coastal rocks with realistic texture. Peaceful, quiet, and emotionally patriotic atmosphere.\n\nTEXT & CINEMATIC ELEMENTS:\nAdd elegant bold serif text reading \"HAPPY REPUBLIC DAY\". Below it, add a small clean caption: \"26 JANUARY\". Text placement should be balanced and must not cover the face or distract from the subject.\n\nLIGHTING & CAMERA:\nSoft natural early-morning daylight. Gentle highlights on the face and flag. Realistic shadows with cinematic depth. DSLR photography style using a 50mm lens with shallow depth of field. Face remains perfectly sharp and clear.\n\nOUTPUT SETTINGS:\nUltra-HD resolution. Photorealistic skin texture. No blur, no noise, no artifacts. Realistic cinematic color grading.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769319435/df191245-4dec-4017-ae25-b1ff21d57e40-md_kmbalh.jpg",
-        "category_name": "Republic Day",
+        "category_name": "India",
         "categories": [
-            "India",
-            "Men"
+            "India"
         ]
     },
     {
@@ -387,10 +314,9 @@
         "title": "Gallop of Glory | Republic Day Victory Charge",
         "prompt": "Create an ultra-realistic cinematic image using the uploaded reference photo. Keep my face exactly the same as the uploaded photo. Do not change, enhance, or edit my face in any way. Exact facial match is mandatory. Aspect ratio must be 3:4.\n\nPOSE DETAILS: The Victory Charge / Galloping Charge pose. The same person is riding a horse at full-speed gallop through shallow water on the beach. The Indian national flag is held high and straight forward, symbolizing leading the nation to victory. Body slightly leaned forward with an intense yet controlled stance. Expression is calm but powerful, brave, patriotic, and fearless. Pose energy should match the reference main photo.\n\nOUTFIT DETAILS: All-black outfit including a black full-sleeve shirt with folded sleeves, black luxury sunglasses, and a black Apple smartwatch. Outfit should look sharp, premium, and realistic.\n\nBACKGROUND & ENVIRONMENT: Use the same beach and sea background as the reference image. Do not change the background location. Dramatic cloudy sky, white doves flying in the sky, natural ocean reflections visible on wet sand, shallow water splashes around the horse. No artificial or altered background elements.\n\nLIGHTING & STYLE: Same lighting as the reference photo. Natural daylight with cinematic contrast. Soft highlights on the face and flag, realistic shadows, ultra-HD photorealistic look, DSLR-quality depth and clarity.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769318112/Trending-Google-Gemini-26-January-Ai-Photo-Editing-Prompts_adjvzr.webp",
-        "category_name": "Republic Day",
+        "category_name": "India",
         "categories": [
-            "India",
-            "Men"
+            "India"
         ]
     },
     {
@@ -398,10 +324,9 @@
         "title": "On the Edge of Bharat | Freedom in the Mist",
         "prompt": "Create an ultra-hyper-realistic cinematic photograph using the uploaded reference photo. Keep my face exactly the same as the uploaded photo. Do not change, edit, reshape, beautify, enhance, or modify my face in any way. Face must remain 100% identical to the reference image. Preserve original skin texture, facial structure, expression, beard details, hairline, and identity exactly. No AI facial modification of any kind.\n\nASPECT RATIO: 3:4\n\nSUBJECT:\nA young Indian man sitting on the sharp edge of a rugged rocky cliff in the mountains. Full body visible in a side-profile view. Confident yet emotional posture, expressing pride and freedom. Wavy, masculine, slightly messy hair moving naturally with the wind.\n\nPOSE DETAILS:\nSide-view full-shot from head to toe. One hand gripping the rocky cliff tightly for balance. The other hand hanging downward, holding and waving the Indian national flag. Both arms slightly open, symbolizing freedom, courage, and patriotism. Legs relaxed while seated on the cliff edge. Body slightly leaning forward into the mist and mountain air.\n\nOUTFIT DETAILS:\nBlack outfit consisting of a black oversized or fitted shirt, black trousers, black luxury sunglasses (if angle allows visibility), and a black Apple smartwatch. Outfit should look realistic, premium, and wind-affected, not stylized or altered.\n\nFLAG DETAILS:\nIndian national flag with accurate saffron, white, and green colors. Ashoka Chakra clearly visible and proportionally correct. Flag should flow naturally with mountain wind.\n\nBACKGROUND & ENVIRONMENT:\nHigh-altitude mountain landscape with rugged cliffs, deep valleys, and rolling mist. Cloudy dramatic sky with soft fog surrounding the cliff. Natural depth and atmospheric perspective. No artificial background changes.\n\nLIGHTING & STYLE:\nNatural daylight with cinematic contrast. Soft highlights on face, outfit, and flag. Realistic shadows. Ultra-HD, photorealistic DSLR look with shallow depth of field. Emotional, powerful, and inspirational Republic Day mood.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769318216/Google-Gemini-26-January-Ai-Photo-Editing-Prompts-New-Trend_h6zp2f.webp",
-        "category_name": "Republic Day",
+        "category_name": "India",
         "categories": [
-            "India",
-            "Men"
+            "India"
         ]
     },
     {
@@ -409,9 +334,9 @@
         "title": "Black-Hoodie Photographer Pose",
         "prompt": "A young woman in a black hoodie and black pants, crouching slightly as he holds a DSLR camera with a long lens to his eye, appearing to take a photo. He has dark hair styled upwards and is looking slightly to the side with a focused expression. He is wearing sandals. The background is brightly lit and out of focus, suggesting an outdoor, natural setting with green hues. The lighting is soft and even. \"The face and hairstyle must remain exactly the same as in the reference image. Keep my face 100. As in the reference image",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763535490/Black-Hoodie_Photographer_Pose_nzdn9c.jpg",
-        "category_name": "Girl",
+        "category_name": "Girls",
         "categories": [
-            "Girl"
+            "Girls"
         ]
     },
     {
@@ -419,10 +344,9 @@
         "title": "Green Saree Mirror Selfie Look",
         "prompt": "Create A beautiful Indian girl dressed in a traditional decent hot light green net saree with bollywood style with intricate golden embroidery blouse.hairs are open and gajra tucked in her hair. She is wear earrings, bangles she taking a mirror selfie completely 100% unchanged face and cloth. full body picture.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763535863/Green_Saree_Mirror_Selfie_LookGreen_Saree_Mirror_Selfie_Look_d0ff1k.jpg",
-        "category_name": "Girl",
+        "category_name": "Girls",
         "categories": [
-            "Girl",
-            "Selfie"
+            "Girls"
         ]
     },
     {
@@ -430,9 +354,9 @@
         "title": "Warm Sunlit Dreamy Portrait",
         "prompt": "Create a hyperrealistic photo of a soft & dreamy portrait sitting in warm natural sunlight, with rays gently casting shadows across her face. She has wavy black hair as shown in picture that falls naturally over her shoulders, her lips are softly bricked red, giving her an innocent yet thoughtful expression. She is wearing a loose cozy cream colored knitted sweater, adding warmth & softness to the scene & a gold long necklace with gold clover shiknendant.Looking into nda Camera. Cein down looknn",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763536104/Warm_Sunlit_Dreamy_Portrait_sskfuz.jpg",
-        "category_name": "Girl",
+        "category_name": "Girls",
         "categories": [
-            "Girl"
+            "Girls"
         ]
     },
     {
@@ -440,9 +364,9 @@
         "title": "Soft Sunlight Knit Portrait",
         "prompt": "A hyperrealistic, soft and dreamy portrait of the same girl with her face and hairstyle kept exactly as in the reference image. She is sitting in warm natural sunlight, with gentle rays casting soft shadows across her face. She has long wavy black hair falling naturally over her shoulders, brick-red lips, and an innocent, thoughtful look. She is wearing a cozy cream knitted sweater and a long gold necklace with a clover pendant. She looks slightly down while facing the camera, creating a calm and warm mood.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763536272/Soft_Sunlight_Knit_Portrait_nlezxg.png",
-        "category_name": "Girl",
+        "category_name": "Girls",
         "categories": [
-            "Girl"
+            "Girls"
         ]
     },
     {
@@ -450,9 +374,9 @@
         "title": "Golden Hour Breeze",
         "prompt": "A beach girl walking barefoot along the shoreline during golden hour. Her hair dances in the sea breeze, and the sunlight kisses her skin with a warm, cinematic glow. Gentle waves reflect orange and pink hues as she smiles naturally toward the lens. Style Keywords: Cinematic | Golden Hour | Natural | Warm | Lifestyle",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763541496/ai-beach-girl-1_pncx7w.png",
-        "category_name": "Girl",
+        "category_name": "Girls",
         "categories": [
-            "Girl"
+            "Girls"
         ]
     },
     {
@@ -460,9 +384,9 @@
         "title": "Tropical Serenity",
         "prompt": "A girl in a white sundress stands near a palm tree, soft shadows falling across her face. The horizon glows with pastel skies, and her gentle expression feels calm and alive, like a dreamy vlog moment. Style Keywords: Soft Pastel | Dreamy | Minimal | Tropical | Calm",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763541660/ai-beach-girl-2_bvaq5q.png",
-        "category_name": "Girl",
+        "category_name": "Girls",
         "categories": [
-            "Girl"
+            "Girls"
         ]
     },
     {
@@ -480,9 +404,9 @@
         "title": "Retro Bollywood Style",
         "prompt": "A photorealistic portrait of the person from the uploaded image. A dashing South Indian man with a beard and dark hair, wearing yellow-tinted sunglasses, a stylish white three-piece suit (with an open vest revealing necklaces), and multiple rings and bracelets. He is seated on the back of a red convertible car, smiling and looking to the side. The background features a bright blue sky, the ocean, and a cityscape, suggesting a luxurious coastal setting under clear, sunny weather.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763541961/gemini-ai-photo-prompt-boy-10_hrombm.png",
-        "category_name": "Men",
+        "category_name": "Boys",
         "categories": [
-            "Men"
+            "Boys"
         ]
     },
     {
@@ -490,9 +414,9 @@
         "title": "K-Drama Campus Hero",
         "prompt": "A photorealistic portrait of the person from the uploaded image. A stylish South Indian man with a beard, sunglasses, and curly dark hair, wearing a red and blue plaid short-sleeved shirt, dark pants, and a satchel across his body. He has wired earphones in, an ID card hanging from a red lanyard, and his hands in his pockets. He is standing in front of a brick wall and a partially visible open door, with another person blurred in the background, suggesting a university or casual urban setting. The lighting is bright and natural.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763542037/gemini-ai-photo-prompt-boy-9_pgzpcr.png",
-        "category_name": "Men",
+        "category_name": "Boys",
         "categories": [
-            "Men"
+            "Boys"
         ]
     },
     {
@@ -500,9 +424,9 @@
         "title": "Cinematic Gangster",
         "prompt": "A photorealistic portrait of the person from the uploaded image. A suave South Indian man with a sleek haircut, a well-groomed beard and mustache, wearing a charcoal grey blazer over a brown leather-collared jacket, a dark patterned tie, and fingerless leather gloves. He is striking a confident pose, looking directly at the viewer with an intense gaze, against a plain light grey studio background. The lighting is even and professional.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763542094/gemini-ai-photo-prompt-boy-8_cyqxai.png",
-        "category_name": "Men",
+        "category_name": "Boys",
         "categories": [
-            "Men"
+            "Boys"
         ]
     },
     {
@@ -510,10 +434,9 @@
         "title": "Retro Street Vibes",
         "prompt": "Create a retro, vintage-inspired image - grainy yet bright with little sun rays based on the reference picture. The boy should be wearing a light maroon shirt, paired with plated off-white pants styled in a Pinterest-inspired aesthetic. The vibe must capture the essence of a 90s movie dark-brown-haired baddie, hair waving by a windy, romantic atmosphere. Standing under the aesthetic street light and reading a book as a few leaves blow in the air, while dramatic contrasts add mystery and artistry to the scene, creating a moody yet enchanting atmosphere.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763542177/gemini-ai-photo-prompt-boy-4_xiy05k.png",
-        "category_name": "Men",
+        "category_name": "Boys",
         "categories": [
-            "Men",
-            "Portrait"
+            "Boys"
         ]
     },
     {
@@ -521,10 +444,9 @@
         "title": "Outdoor Casual Tourist",
         "prompt": "A photorealistic portrait of the person from the uploaded image. A young, fit South Indian man with short, dark hair and a light beard, wearing aviator sunglasses and a maroon long-sleeved t-shirt. He has his hands in the pockets of light-colored trousers, standing confidently against a blurred outdoor background featuring a light brown fence and greenery. The lighting is bright and natural.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763542416/gemini-ai-photo-prompt-boy-7_yzqk87.png",
-        "category_name": "Men",
+        "category_name": "Boys",
         "categories": [
-            "Men",
-            "Portrait"
+            "Boys"
         ]
     },
     {
@@ -532,9 +454,9 @@
         "title": "Corporate Executive",
         "prompt": "A photorealistic portrait of the person from the uploaded image. A handsome South Indian man with a neat beard and mustache, wearing a sharp black suit jacket over a crisp white shirt, and black trousers. He is leaning casually against a dark grey wall with his hands in his pockets, looking at the viewer with a friendly smile. The lighting is soft and even, highlighting the textures of his clothing.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763542476/gemini-ai-photo-prompt-boy-6_ikjjat.png",
-        "category_name": "Men",
+        "category_name": "Boys",
         "categories": [
-            "Men"
+            "Boys"
         ]
     },
     {
@@ -542,11 +464,9 @@
         "title": "Saree Street",
         "prompt": "A trendy girl in a colorful saree walking down an urban street, candid street photography vibe, golden hour sunlight, cinematic lens flare, vibrant city background, realistic portrait with preserved face, modern Bollywood-inspired Instagram look, 9:16 vertical format",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763542559/Gemini_Generated_Image_dhe94ldhe94ldhe9_yt58bh.png",
-        "category_name": "Girl",
+        "category_name": "Girls",
         "categories": [
-            "Girl",
-            "Saree",
-            "Portrait"
+            "Girls"
         ]
     },
     {
@@ -554,10 +474,9 @@
         "title": "Cinematic Rooftop",
         "prompt": "A girl standing on a rooftop at dusk, city skyline behind her, dramatic backlight, warm ambient glow, cinematic film composition, soft haze, natural facial features preserved, high detail, 9:16 aspect ratio, Instagram-ready",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763542711/gemini-gilr6_mt6xhm.png",
-        "category_name": "Girl",
+        "category_name": "Girls",
         "categories": [
-            "Girl",
-            "Portrait"
+            "Girls"
         ]
     },
     {
@@ -567,8 +486,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763542837/gemini-couple1_d9pfx0.png",
         "category_name": "Couple",
         "categories": [
-            "Couple",
-            "Portrait"
+            "Couple"
         ]
     },
     {
@@ -588,8 +506,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763543045/gemini-couple4_xiv3ok.png",
         "category_name": "Couple",
         "categories": [
-            "Couple",
-            "Pre Wedding"
+            "Couple"
         ]
     },
     {
@@ -599,8 +516,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763543211/gemini-couple5_kqmrrz.png",
         "category_name": "Couple",
         "categories": [
-            "Couple",
-            "Pre Wedding"
+            "Couple"
         ]
     },
     {
@@ -610,8 +526,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763543388/gemini-couple2_eojgle.png",
         "category_name": "Couple",
         "categories": [
-            "Couple",
-            "Portrait"
+            "Couple"
         ]
     },
     {
@@ -619,10 +534,9 @@
         "title": "Retro Red Dress Rose Goddess",
         "prompt": "Create a retro vintage grainy yet bright female portrait… deep red dress, golden-hour side light, one long-stemmed red rose near chest, gentle affectionate gaze, soft bokeh, 90s romantic movie aesthetic, 9:16 ultra-realistic.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763543640/rose-gemini-ai-photo-1_w3hh3m.png",
-        "category_name": "Girl",
+        "category_name": "Girls",
         "categories": [
-            "Girl",
-            "Flower"
+            "Girls"
         ]
     },
     {
@@ -630,10 +544,9 @@
         "title": "Editorial Glamour (Bouquet)",
         "prompt": "Ultra-realistic studio portrait, over-the-shoulder pose, luxurious black spaghetti-strap dress, large bouquet of vibrant red roses, soft spotlight halo, warm romantic glow, Vogue cover vibe, shallow DOF, 9:16, 8K detail.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763543716/rose-gemini-ai-photo-3_x4yctw.png",
-        "category_name": "Girl",
+        "category_name": "Girls",
         "categories": [
-            "Girl",
-            "Flower"
+            "Girls"
         ]
     },
     {
@@ -641,10 +554,9 @@
         "title": "Wine-Red Urban Boy",
         "prompt": "90s movie vibe, grainy yet bright, young man in wine-red shirt and pants, white sneakers, sitting by a deep wine wall holding a single red rose; warm golden tones, moody yet calm expression, 9:16 ultra-realistic.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763543906/rose-gemini-ai-photo-4_f1ijac.png",
-        "category_name": "Men",
+        "category_name": "Boys",
         "categories": [
-            "Men",
-            "Flower"
+            "Boys"
         ]
     },
     {
@@ -652,10 +564,9 @@
         "title": "Black Suit Urban Elite",
         "prompt": "Cinematic portrait, dark minimal backdrop, beam of golden sunlight, crisp black suit with wide-leg trousers, bouquet of red roses to chest, serene confidence, high contrast, single spotlight, 9:16, 4K details.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763543971/rose-gemini-ai-photo-5_eiq5bc.png",
-        "category_name": "Men",
+        "category_name": "Boys",
         "categories": [
-            "Men",
-            "Flower"
+            "Boys"
         ]
     },
     {
@@ -665,9 +576,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763544030/rose-gemini-ai-photo-7_eh2jm1.png",
         "category_name": "Couple",
         "categories": [
-            "Couple",
-            "Flower",
-            "Pre Wedding"
+            "Couple"
         ]
     },
     {
@@ -677,8 +586,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763544079/rose-gemini-ai-photo-8_env9pk.png",
         "category_name": "Couple",
         "categories": [
-            "Couple",
-            "Portrait"
+            "Couple"
         ]
     },
     {
@@ -686,9 +594,9 @@
         "title": "Cinematic Yamaha MT 15 Rider",
         "prompt": "A young man [use face reference] sitting confidently on a red and black Yamaha MT 15 motorcycle. He is wearing a black casual shirt with rolled-up sleeves, light blue jeans, and white sneakers. His hand rests on a glossy black helmet on the fuel tank. He is giving a handsome and cute look, cinematic hyper-realistic photography, golden hour sunlight, DSLR shot, 4K high detail.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763544197/1WeCpc6VIZEhizw8t9wUuXQ_m8j3cv.png",
-        "category_name": "Men",
+        "category_name": "Boys",
         "categories": [
-            "Men"
+            "Boys"
         ]
     },
     {
@@ -696,9 +604,9 @@
         "title": "Moody Black and White Chair Studio Portrait",
         "prompt": "Use the model to create a black-and-white studio photo, featuring a young man sitting casually on a metal folding chair with his legs crossed. He is wearing a denim jacket, a dark t-shirt, straight jeans, and black boots. The lighting is soft and minimal, producing sharp shadows and a moody atmosphere. His body pose is relaxed, slightly leaning back with one hand on the chair’s armrest, his face turned to the side. The background is plain, with a simple and modern aesthetic.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763544301/chair_esq8an.png",
-        "category_name": "Men",
+        "category_name": "Boys",
         "categories": [
-            "Men"
+            "Boys"
         ]
     },
     {
@@ -706,9 +614,9 @@
         "title": "Men Festive Dandiya Night",
         "prompt": "Ultra-realistic cinematic full-body portrait of a stylish 25-year-old slim man (height 5'5\"), with the same original face and perfectly set hairstyle as in the reference. He is wearing a vibrant red and black traditional dandiya outfit decorated with intricate mirror work and golden embroidery, paired with matching dandiya shoes and a sleek wristwatch. The man is leaning casually against a beautifully decorated pillar wrapped in glowing festive lights. One hand rests in his pocket while the other hand loosely holds the dandiya sticks at his side. His confident gaze is directed toward the camera with a subtle stylish smile. Background: a lively dandiya night filled with colorful lights, blurred silhouettes of dancers, and a glamorous Navratri celebration ambiance.        ",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763544439/Gemini_Generated_Image_2vffo52vffo52vff_nzehkx.png",
-        "category_name": "Men",
+        "category_name": "Boys",
         "categories": [
-            "Men"
+            "Boys"
         ]
     },
     {
@@ -716,9 +624,9 @@
         "title": "Classy Kurta Festive Look",
         "prompt": "Generate a 4K portrait of a stylish Indian boy (20–28) wearing a pastel embroidered kurta and elegant watch. Add warm festive lighting with golden bokeh. Keep pose natural—hands loosely folded. Capture clean grooming, soft shadows, and realistic textures. Perfect for traditional yet modern Instagram photos.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763544716/Gemini_Generated_Image_z8eiihz8eiihz8ei_wylpx6.png",
-        "category_name": "Men",
+        "category_name": "Boys",
         "categories": [
-            "Men"
+            "Boys"
         ]
     },
     {
@@ -726,9 +634,9 @@
         "title": "Luxury Black Outfit Portrait",
         "prompt": "Generate a stylish 4K portrait of a 20+ Indian male wearing an all-black outfit—black shirt, black trousers, silver ring. Add moody lighting and soft shadows. Highlight beard fade, textured hair, and sharp facial angles for a premium luxury feel.",
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763545035/Gemini_Generated_Image_lxq25alxq_mapquw.png",
-        "category_name": "Men",
+        "category_name": "Boys",
         "categories": [
-            "Men"
+            "Boys"
         ]
     },
     {
@@ -738,8 +646,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763615989/Gemini_Generated_Image_r64qnqr64qnqr64q-768x768_pfmnm2.webp",
         "category_name": "Couple",
         "categories": [
-            "Couple",
-            "Portrait"
+            "Couple"
         ]
     },
     {
@@ -749,8 +656,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763616051/Gemini_Generated_Image_ptd697ptd697ptd6-768x768_iy3zxl.webp",
         "category_name": "Couple",
         "categories": [
-            "Couple",
-            "Portrait"
+            "Couple"
         ]
     },
     {
@@ -760,9 +666,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763616316/Gemini_Generated_Image_e2uhiae2uhiae2uh-1-768x768_ca4snm.webp",
         "category_name": "Couple",
         "categories": [
-            "Couple",
-            "Snow",
-            "Portrait"
+            "Couple"
         ]
     },
     {
@@ -772,8 +676,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763617859/Google-Gemini-Kids-Ai-Photo-Editing-Prompts-2025-10-Free-Gemini-AI-Photo-Editor-Prompts-Copy-Paste-For-Kids-12_f0ikky.webp",
         "category_name": "Baby",
         "categories": [
-            "Baby",
-            "Toys"
+            "Baby"
         ]
     },
     {
@@ -783,8 +686,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763617931/Google-Gemini-Kids-Ai-Photo-Editing-Prompts-2025-10-Free-Gemini-AI-Photo-Editor-Prompts-Copy-Paste-For-Kids-8_ryrehj.webp",
         "category_name": "Baby",
         "categories": [
-            "Baby",
-            "Toys"
+            "Baby"
         ]
     },
     {
@@ -804,8 +706,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763618074/Google-Gemini-Kids-Ai-Photo-Editing-Prompts-2025-10-Free-Gemini-AI-Photo-Editor-Prompts-Copy-Paste-For-Kids-4_rif47e.webp",
         "category_name": "Baby",
         "categories": [
-            "Baby",
-            "Flower"
+            "Baby"
         ]
     },
     {
@@ -825,8 +726,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763618173/Google-Gemini-Kids-Ai-Photo-Editing-Prompts-2025-10-Free-Gemini-AI-Photo-Editor-Prompts-Copy-Paste-For-Kids-2_hmrwd9.webp",
         "category_name": "Baby",
         "categories": [
-            "Baby",
-            "Toys"
+            "Baby"
         ]
     },
     {
@@ -836,8 +736,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763618284/Baby-Girl-Saree-Vintage-Look-Ai-Prompt-2025-Gemini-AI-Image-Prompt-For-Instagram-Post-9_y2szxp.webp",
         "category_name": "Baby",
         "categories": [
-            "Baby",
-            "Saree"
+            "Baby"
         ]
     },
     {
@@ -847,8 +746,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763618350/Baby-Girl-Saree-Vintage-Look-Ai-Prompt-2025-Gemini-AI-Image-Prompt-For-Instagram-Post-7_njyifk.webp",
         "category_name": "Baby",
         "categories": [
-            "Baby",
-            "Saree"
+            "Baby"
         ]
     },
     {
@@ -858,9 +756,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763618438/Baby-Girl-Saree-Vintage-Look-Ai-Prompt-2025-Gemini-AI-Image-Prompt-For-Instagram-Post-8_b9wqwm.webp",
         "category_name": "Baby",
         "categories": [
-            "Baby",
-            "Saree",
-            "School"
+            "Baby"
         ]
     },
     {
@@ -870,9 +766,7 @@
         "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1763618499/Baby-Girl-Saree-Vintage-Look-Ai-Prompt-2025-Gemini-AI-Image-Prompt-For-Instagram-Post-4_nacimn.webp",
         "category_name": "Baby",
         "categories": [
-            "Baby",
-            "Flower",
-            "Saree"
+            "Baby"
         ]
     }
 ]
