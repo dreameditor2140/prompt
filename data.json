@@ -1,5 +1,15 @@
 [
     {
+        "id": "1",
+        "title": "Elegant Birthday Portrait with Tiara and Spotlight",
+        "prompt": "Based on reference image, the woman with her specific facial features, long wavy brown hair, and silver tiara is shown in a profile pose, blowing out the \"28\" gold candles on the chocolate cake she holds. She wears the same black sequined gown against the grey wall with the dramatic circular spotlight shadow. The studio lighting highlights her and the cake.",
+        "image_url": "https://res.cloudinary.com/du3qcieag/image/upload/v1769686814/gemini-birthday1_vjquuv.avif",
+        "category_name": "Birthday",
+        "categories": [
+            "Birthday"
+        ]
+    },
+    {
         "id": "2",
         "title": "Minimalist Fashion Birthday Portrait in Black",
         "prompt": "Based on reference image, a fashion photograph of a woman with the likeness of the subject, crouching in an oversized black blazer, sunglasses, and sheer black gloves. She holds a small black tiered birthday cake with \"28\" candles. The setting is a minimalist white studio with dramatic side lighting.",
@@ -760,6 +770,7 @@
         ]
     }
 ]
+
 
 
 
