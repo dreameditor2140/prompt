@@ -2,7 +2,7 @@
     "isBannerAdEnabled": true,
     "isInterstitialAdEnabled": true,
     "showTestAds": true,
-    "canShowAds": false,
+    "canShowAds": true,
     "minTimeBetweenInterstitialAds": 60,
     "minActionsBeforeInterstitial": 3,
     "testBannerAdId": "ca-app-pub-3940256099942544/6300978111",
