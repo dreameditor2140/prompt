@@ -4,12 +4,17 @@
     "isNativeAdEnabled": true,
     "showTestAds": true,
     "canShowAds": true,
+    "isNativeOrBannerType": 1,
+    "isInterstitialOrRewardType": 1,
+    "promptAdType": 1,
     "minTimeBetweenInterstitialAds": 60,
     "minActionsBeforeInterstitial": 4,
     "testBannerAdId": "ca-app-pub-3940256099942544/6300978111",
     "testInterstitialAdId": "ca-app-pub-3940256099942544/1033173712",
     "testNativeAdId": "ca-app-pub-3940256099942544/2247696110",
+    "testRewardAdId": "ca-app-pub-3940256099942544/5224354917",
     "productionBannerAdId": "ca-app-pub-6970418558167927/9438320280",
     "productionInterstitialAdId": "ca-app-pub-6970418558167927/7027779366",
-    "productionNativeAdId": "ca-app-pub-3940256099942544/2247696110"
+    "productionNativeAdId": "ca-app-pub-6970418558167927/3093777902",
+    "productionRewardAdId": "ca-app-pub-6970418558167927/7253009604"
 }
