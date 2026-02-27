@@ -1,10 +1,10 @@
 {
     "isBannerAdEnabled": true,
     "isInterstitialAdEnabled": true,
-    "isNativeAdEnabled": true,
+    "isNativeAdEnabled": false,
     "showTestAds": false,
     "canShowAds": true,
-    "isNativeOrBannerType": 3,
+    "isNativeOrBannerType": 2,
     "isInterstitialOrRewardType": 3,
     "promptAdType": 3,
     "minTimeBetweenInterstitialAds": 15,
