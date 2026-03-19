@@ -7,7 +7,7 @@
     "isNativeOrBannerType": 3,
     "isInterstitialOrRewardType": 1,
     "promptAdType": 3,
-    "minTimeBetweenInterstitialAds": 15,
+    "minTimeBetweenInterstitialAds": 25,
     "minActionsBeforeInterstitial": 2,
     "testBannerAdId": "ca-app-pub-3940256099942544/6300978111",
     "testInterstitialAdId": "ca-app-pub-3940256099942544/1033173712",
