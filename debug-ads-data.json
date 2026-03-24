@@ -3,7 +3,7 @@
     "isInterstitialAdEnabled": true,
     "isNativeAdEnabled": true,
     "showTestAds": true,
-    "canShowAds": true,
+    "canShowAds": false,
     "isNativeOrBannerType": 3,
     "isInterstitialOrRewardType": 3,
     "promptAdType": 3,
