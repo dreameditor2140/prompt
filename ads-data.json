@@ -3,7 +3,7 @@
     "isInterstitialAdEnabled": true,
     "isNativeAdEnabled": true,
     "isFeedNativeAdEnabled": true,
-    "isGridListNativeAdEnabled": true,
+    "isGridListNativeAdEnabled": false,
     "showTestAds": false,
     "canShowAds": true,
     "isNativeOrBannerType": 3,
