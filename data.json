@@ -9650,6 +9650,16 @@
         ]
     },
     {
+        "id": "966",
+        "title": "",
+        "prompt": "A detailed, top-down close-up photo of a smartphone lying on a dark, rustic wooden table. The environment must be exactly identical to the original reference image: a white coffee cup with latte art on the right, a sprig of dried baby's breath flowers above the phone, and the edge of a beige cloth visible on the left. The smartphone screen is on, but the lock screen wallpaper has been completely replaced by the uploaded image of the young woman taking a mirror selfie in a purple-lit bedroom. Superimposed perfectly over this new selfie wallpaper are all the exact lock screen UI elements from the original phone: the 'Jio' carrier text and network/battery icons at the top, the large white clock reading '7:45', the date 'Friday, 23 May' underneath it, and the flashlight and camera shortcut icons at the bottom corners. The black dynamic island notch remains at the top center. Keep the exact same soft, warm lighting, the shadow cast by the coffee cup, and the subtle reflections on the phone's glass screen. Make it look seamless and highly realistic.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778823602062/966.png",
+        "category_name": "Wallpaper",
+        "categories": [
+            "Wallpaper"
+        ]
+    },
+    {
         "id": "967",
         "title": "",
         "prompt": "create a Realistic 8K portrait, 24mm wide-angle lens. Scene on a majestic spiral staircase with imposing architecture. Soft natural light enters from the circular top, creating ethereal beams. Subject in upward motion, slightly tilted, expressing ascension and transcendence. Gaze directed upward, deep and poetic. Sophisticated editorial look: tailored graphite-gray linen blazer, open-collar white shirt, deep navy slim-fit trousers, polished leather shoes. Perfect fabric drape highlighted by natural light, contrasting architectural hardness with fashion softness. High-impact details: light reflections on face and shoulders, spiral staircase curves framing the background, cinematic and artistic composition. Vogue-style editorial atmosphere — fusion of architecture, fashion, and timeless emotion.",
@@ -15420,7 +15430,7 @@
         ]
     },
     {
-        "id": "1560",
+        "id": "1544",
         "title": "",
         "prompt": "\"A young woman with vibrant, long red hair tied back in a ponytail stands leaning against a clean white desk in a modern, minimalist room. She is wearing a matching light gray, long-sleeved, form-fitting ribbed knit lounge set that highlights her athletic silhouette. Her expression is calm and direct as she looks toward the camera with light-colored eyes and soft makeup. Behind her, a functional computer setup is visible, featuring dual black monitors, a dark PC tower, a vintage-style white spherical microphone on a tripod, and black headphones resting atop the tower. The lighting is soft and even, casting gentle shadows against the plain, off-white walls, creating a clean and contemporary aesthetic that blends gaming culture with casual fashion.\"",
         "image_url": "https://upload.meeshosupplyassets.com/cataloging/1776861185855/1544.jpg",
@@ -18687,6 +18697,446 @@
         "category_name": "Boys",
         "categories": [
             "Boys"
+        ]
+    },
+    {
+        "id": "1871",
+        "title": "",
+        "prompt": "Ultra-realistic 8K full-body luxury streetwear fashion shot of a 21-year-old Asian man with identical facial features as the reference image. Standing confidently near a marble staircase at night, leaning casually against the railing. Wearing oversized blue-white plaid shirt, cream t-shirt, tailored dark trousers, and premium sneakers, accessorized with a silver chain. Shot from a slightly low angle for dominance. Scene lit with cinematic street lighting and soft neon glows reflecting on marble surfaces. Deep shadows, high contrast, premium Zara campaign aesthetic. Realistic textures, sharp focus, shot on 50mm lens, not Al-generated, 3:4 aspect ratio.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778578567317/1871.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1872",
+        "title": "",
+        "prompt": "Ultra-realistic 8K side profile luxury portrait of a 21-year-old Asian man with the same face as the reference photo. Shot at eye level with dramatic side lighting. Half of the face fades into darkness while a soft rim light outlines hair and jawline. Messy hairstyle with subtle shine. Wearing an oversized plaid shirt and cream inner tee with a silver necklace. Background is a dimly lit marble staircase with soft shadows. Minimalist luxury brand aesthetic (Gucci/Zara hybrid style). Shot on 85mm lens, cinematic shadows, ultra-detailed skin texture, not AI-generated, 3:4 aspect ratio.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778578670147/1872.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1873",
+        "title": "",
+        "prompt": "Ultra-realistic 8K high-fashion editorial portrait of a 21-year-old Asian man with identical face as reference image. Shot from a high top-down angle as he looks up intensely toward the camera. Leaning on a dark marble staircase railing. Wearing oversized blue plaid shirt, cream t-shirt, and silver chain necklace. Night setting with focused spotlight creating geometric shadow patterns across his face and outfit. Background fades into darkness with subtle luxury textures. High-end runway editorial style, Gucci campaign lighting, cinematic realism, shot on 35mm lens, not AI-generated, 3:4 aspect ratio.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778578696829/1873.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1874",
+        "title": "",
+        "prompt": "Ultra-realistic 8K mid-length portrait of a 21-year-old Asian\n\nman with identical facial features as the reference image. Shot from a slight diagonal angle, waist-up framing. He is standing near a marble staircase, casually adjusting his shirt collar. Wearing oversized light blue plaid shirt over cream t-shirt, silver chain necklace visible. Strong side sunlight creates sharp shadow lines across body and background. Natural skin tone, realistic texture, cinematic photography style, shot on 50mm lens, shallow depth of field, not Al-generated, 3:4 aspect ratio.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778578714945/1874.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1875",
+        "title": "",
+        "prompt": "Ultra-realistic 8K close-up portrait of a 21-year-old Asian man with the exact same face as the reference image. Messy textured hair falling naturally across the forehead. Shot from a slightly high angle, focusing on sharp facial details, skin texture, and natural imperfections. He is wearing a light blue and white plaid shirt layered over a cream t-shirt with a subtle silver chain necklace. Strong directional sunlight hitting from one side creates dramatic contrast and deep shadows across his face. Background softly blurred marble staircase. Shot on DSLR, 85mm lens, shallow depth of field, photorealistic, not AI-generated, cinematic lighting, aspect ratio 3:4.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778578731422/1875.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1876",
+        "title": "",
+        "prompt": "Ultra-realistic 8K full-body fashion photograph of a 21-year-old Asian man with the same facial identity as the reference image. He is casually leaning against a white marble staircase banister, one hand in pocket, relaxed confident posture. Wearing oversized light blue and white plaid shirt, cream t-shirt, loose-fit trousers, and minimal sneakers, silver chain visible. Shot from a low angle looking slightly upward for a powerful perspective. Harsh sunlight casting long dramatic shadows on stairs and floor. Crisp details, natural skin tones, realistic textures, shot on 50mm lens, cinematic realism, not AI-generated, aspect ratio 3:4.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778578753759/1876.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1877",
+        "title": "",
+        "prompt": "Ultra-detailed 8K side profile portrait of a 21-year-old Asian man with identical face as the reference photo. Shot from the side at eye level, capturing strong jawline and natural facial contours. Messy hairstyle with strands highlighted by sunlight. Wearing a blue-white plaid shirt and cream inner tee with silver necklace. Strong sunlight from behind creates rim lighting around hair and shoulders, while half the face remains in shadow. Marble staircase background with high contrast light patterns. Shot on 85mm lens, ultra-realistic skin texture, not AI-generated, cinematic depth, 3:4 aspect ratio.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778578780033/1877.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1878",
+        "title": "",
+        "prompt": "Ultra-realistic 8K editorial fashion portrait of a 21-year-old Asian man with the same face as reference image. Shot from a high top-down angle as he looks up toward the camera, leaning on a marble staircase railing. Expression calm and confident. Messy natural hair, soft movement. Wearing oversized blue plaid shirt, cream t-shirt, silver necklace. Strong sunlight creating geometric shadows from staircase railings across his face and outfit. Fashion magazine style composition, ultra-sharp focus, DSLR quality, 35mm lens, realistic lighting, not Al-generated, 3:4 aspect ratio.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778578796164/1878.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1879",
+        "title": "",
+        "prompt": "Hyper-realistic extreme close-up portrait of a young man (100% same uploaded face) at Mount Everest Base Camp, snow-covered Himalayan peaks softly blurred in the background, colorful prayer flags slightly visible. His face shows cold wind texture, slightly red cheeks, sharp jawline, intense eyes looking into the distance. Wearing a black winter jacket with frost details on collar. Breath vapor visible in cold air.\nCamera: Canon EOS R5, 85mm, f/1.8, ISO 100, shallow depth of field, natural cold lighting, ultra HDR, cinematic contrast, 8K resolution, photorealistic, aspect ratio 3:4, not AI-looking.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778578819370/1879.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1880",
+        "title": "",
+        "prompt": "Hyper-realistic full-body shot of a young man (99% same uploaded face) standing confidently at Mount Everest Base Camp, surrounded by massive Himalayan mountains and glacier terrain. Prayer flags flying dramatically across the frame, strong wind blowing his jacket slightly. Wearing black jacket, trekking pants, boots, and backpack. Heroic pose looking forward.\nCamera: Canon EOS R5, 35mm, f/4, ISO 200, wide-angle cinematic composition, natural daylight, ultra high dynamic range, sharp details, 8K resolution, photorealistic, aspect ratio 3:4, realistic travel photography style.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778578835399/1880.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1881",
+        "title": "",
+        "prompt": "Hyper-realistic side profile portrait of a young man (99% same uploaded face) at Everest Base Camp, golden sunlight hitting one side of his face, dramatic shadows on the other. Snowy mountains in background, prayer flags flowing diagonally across sky. Expression calm and focused, breath visible in cold air. Black jacket with subtle snow particles.\nCamera: Canon EOS R5, 70mm, f/2.8, ISO 160, cinematic lighting, natural sunlight with shadows, HDR, ultra-detailed skin texture, 8K resolution, photorealistic, aspect ratio 3:4, realistic tone.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778578851103/1881.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1882",
+        "title": "",
+        "prompt": "Hyper-realistic mid-shot of a young man (99% same uploaded face) adjusting his backpack straps at Mount Everest Base Camp, rugged terrain under his feet, mountains towering behind him. Prayer flags creating depth in the frame. Natural candid expression, slightly windblown hair, cold environment visible through breath vapor.\nCamera: Canon EOS R5, 50mm, f/2.2, ISO 200, documentary style, natural lighting, cinematic color grading, ultra high detail, 8K resolution, photorealistic, aspect ratio 3:4, realistic outdoor photography.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778578867125/1882.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1883",
+        "title": "",
+        "prompt": "Hyper-realistic low-angle cinematic shot of a young man (99% same uploaded face) standing tall at Mount Everest Base Camp, towering Himalayan mountains behind him, dramatic clouds moving in the sky. Prayer flags above him creating motion and depth. Wearing black jacket and backpack, looking upward with determination.\nCamera: Canon EOS R5, 28mm, f/3.5, ISO 250, low-angle perspective, dramatic natural lighting, HDR, cinematic contrast, ultra-detailed, 8K resolution, photorealistic, aspect ratio 3:4, not AI-generated look.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778578882643/1883.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1884",
+        "title": "",
+        "prompt": "Ultra-detailed full body cinematic shot of the same person (100% unchanged in every aspect including face, body proportions, pose, outfit, lighting, and background).\n\nBehind the subject stands a majestic, semi transparent Lord Krishna formed from glowing blue cosmic energy and sacred smoke. Krishna appears taller, with calm expression, glowing divine eyes, golden crown with peacock feather, and flowing aura.\n\nKrishna's hand rests protectively on the subject's shoulder. A large radiant chakra mandala floats beside the subject, slowly spinning and emitting divine light and energy waves.\n\nEnvironment remains identical but enhanced with subtle divine atmosphere glowing particles, spiritual haze, light rays.\n\nCamera: 35mm lens, full-body framing, cinematic perspective.\n\nLighting: dramatic cinematic lighting, divine backlight glow.\n\nQuality: 8K, hyper-realistic, photorealistic textures, not Al-generated look.\n\nAspect ratio: 3:4",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778578904572/1884.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1885",
+        "title": "",
+        "prompt": "Ultra-realistic cinematic 3/4 side angle shot of the same person (no changes at all exact face, pose, outfit, lighting, and background preserved).\n\nFrom behind, Lord Krishna appears slightly angled, emerging in a soft blue divine aura. His form is semi-transparent, with glowing eyes, golden crown with peacock feather, and faint divine ornaments.\n\nKrishna's hand rests gently on the subject's shoulder from behind. A glowing chakra energy ring floats diagonally between Krishna and the subject, casting soft blue light.\n\nLighting: dramatic side lighting, cinematic shadows, volumetric rays.\n\nCamera: 70mm lens, angled composition, shallow depth of field.\n\nQuality: 8K ultra-detailed, realistic skin tones, cinematic finish.\n\nAspect ratio: 3:4",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778578931327/1885.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1886",
+        "title": "",
+        "prompt": "Ultra-realistic cinematic temple environment (background preserved but infused with subtle temple lighting and diya glow).\n\nSame person remains 100% unchanged (face, pose, outfit, angle, framing).\n\nBehind the subject, Lord Krishna appears as a divine blue energy form emerging from sacred smoke, with glowing eyes and a crown with peacock feather.\n\nTemple-style lighting: diyas, warm flames, incense smoke blending with Krishna's aura.\n\nKrishna's hand rests on the shoulder. A sacred chakra mandala glows like ancient spiritual geometry near the subject's hand.\n\nAtmosphere: incense smoke, temple bells vibe, golden flickering light.\n\nLighting: warm spiritual glow soft blue divine contrast.\n\nCamera: 35mm lens, cinematic storytelling composition.\n\nQuality: SK ultra-realistic, deeply spiritual cinematic tone.\n\nAspect ratio: 3:4",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778578946904/1886.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1887",
+        "title": "",
+        "prompt": "Hyper-realistic full-body cinematic shot (3:4) of a man kneeling on a textured wooden floor, arms extended outward in a surrender-to-divinity pose. Behind him emerges a massive, semi-transparent divine aura inspired by Lord Shiva not wings, but a flowing energy form resembling cosmic smoke and faint mountain silhouettes.\n\nSubtle elements: a glowing Trishul shadow behind him, faint Ganga flow effect from above light, and ash (vibhuti) markings on arms.\n\nStrong overhead beam creates sharp shadows and highlights. Light haze enhances depth.\n\nShot on Canon EOS R5, 35mm lens, f/2.8, ISO 200, HDR, realistic lighting, cinematic grading, ultra-detailed, 8K.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778578971192/1887.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1888",
+        "title": "",
+        "prompt": "Hyper-realistic cinematic portrait (3:4) framed chest-up of a kneeling man. His face is calm yet intense, with subtle Tripundra and a dim third-eye glow inspired by Lord Shiva.\n\nBackground remains dark, but a soft, divine smoky aura forms a silhouette hinting at Shiva's presence behind him not visible directly, only suggested through light and shadow.\n\nStrong overhead spotlight creates dramatic contrast. Rudraksha mala visible, slightly catching highlights.\n\nShot on Canon EOS R6, 70mm lens, f/2, ISO 100, shallow depth of field, cinematic grading, ultra-detailed skin texture, natural photorealism, 8K.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778578990096/1888.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1889",
+        "title": "",
+        "prompt": "Ultra-realistic, high-resolution cinematic portrait set inside an official government office with rich, polished wooden interiors and warm ambient lighting. Two South Indian men stand side by side in the foreground, framed waist-up, both smiling confidently and looking directly at the camera.\n\nOn the left, a middle-aged man with medium brown skin tone, thick voluminous black hair styled with natural lift, and a neatly groomed salt-and-pepper beard and mustache. He wears a crisp white button-down shirt with the top buttons slightly open and sleeves casually rolled up. His posture is relaxed yet authoritative.\n\nOn the right, a young man with fair-to-medium skin tone, styled brown-black hair with volume, a trimmed beard, and a sharp jawline. He wears a fitted black shirt with the top button open, giving a modern, stylish look.\n\nBoth men are jointly holding a large bouquet in the center:\n\nA luxurious floral arrangement featuring pink lilies, pink roses, white roses, and baby's breath\n\nWrapped in soft pink paper with a decorative ribbon bow at the bottom\n\nThe bouquet is fresh, vibrant, and detailed with natural textures\n\nBackground details:\n\nA large official emblem of the Government of Tamil Nadu\n\nmounted on the wooden wall behind them\n\nThe Indian national flag positioned slightly behind and between\n\nthem on the right side\n\nA framed portrait of a man placed on a shelf in the background\n\n(soft focus)\n\nWooden bookshelves and office decor adding depth and realism\n\nA leather office chair partially visible behind the man on the left\n\nA desk nameplate in the foreground reading \"CHIEF MINISTER\"\n\nLighting & Camera:\n\nSoft cinematic lighting with warm tones\n\nBalanced highlights and shadows enhancing facial features\n\nShallow depth of field with slightly blurred background\n\nShot on a high-end DSLR, 85mm lens, f/2.0 aperture Ultra-sharp focus on subjects and bouquet\n\nStyle Tags: photorealistic, ultra-detailed, 8K resolution, cinematic composition, natural skin texture, professional portrait, shallow depth of field, warm color grading",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778579009806/1889.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1890",
+        "title": "",
+        "prompt": "Hyper-realistic cinematic portrait of me standing beside Satoru Gojo on a rainy Tokyo rooftop at night, both looking toward camera with intense expressions. I am wearing a black oversized trench coat, silver chain, messy hairstyle, hands in pocket, dark streetwear aesthetic. Gojo’s glowing blue eyes illuminate the wet environment, neon reflections everywhere, smoke drifting around us, dramatic cyberpunk lighting, ultra detailed skin texture, realistic rain droplets, moody shadows, cinematic depth of field, Instagram trending anime-realism style, dark atmosphere, Canon EOS R5, 85mm lens, f/1.8, hyper realistic, insanely detailed, AR 3:4",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778579042006/1890.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1891",
+        "title": "",
+        "prompt": "Hyper-realistic dark anime crossover portrait with me sitting beside Itachi Uchiha under a giant blood-red moon in a ruined Japanese street. I am sitting casually on a broken chair wearing black leather jacket, rings, ripped jeans, calm deadly expression. Itachi stands behind me with Akatsuki cloak flowing in wind, crows flying around, red sharingan glow reflecting on my face, cinematic smoke, realistic textures, dark fantasy mood, ultra photorealistic lighting, dramatic contrast, viral Instagram reel aesthetic, AR 3:4",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778579057203/1891.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1892",
+        "title": "",
+        "prompt": "Hyper-realistic cinematic scene of me and Levi Ackerman inside a dark underground fight club. I am leaning against a wall with folded arms, wearing sleeveless black outfit and tactical gloves, wet hair, sharp jawline lighting. Levi holding dual blades beside me with cold expression, sparks and smoke in background, gritty realism, moody shadows, cinematic action atmosphere, ultra realistic skin and clothing textures, dark masculine Instagram trend style, AR 3:4",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778579079173/1892.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1893",
+        "title": "",
+        "prompt": "Hyper-realistic cinematic shot of me walking beside Eren Yeager through a destroyed city filled with smoke and fire. I am wearing oversized hoodie, combat boots, hands in pocket, serious expression, cinematic wind effect. Eren in titan-war style outfit looking intense, dramatic cloudy sky, orange fire glow, realistic debris, emotional dark vibe, movie-like realism, ultra detailed face textures, trending Instagram anime edit style, AR 3:4",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778579096668/1893.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1894",
+        "title": "",
+        "prompt": "Hyper-realistic dark cinematic portrait of me and Monkey D. Luffy standing on a pirate ship during a stormy night. I am wearing black pirate-inspired streetwear with chains and rings, leaning on sword, confident pose. Luffy beside me with serious expression instead of goofy look, lightning in sky, ocean waves crashing, cinematic blue lighting, wet textures, dark anime realism aesthetic trending on Instagram, AR 3:4",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778579141707/1894.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1895",
+        "title": "",
+        "prompt": "Hyper-realistic cinematic portrait of me and Roronoa Zoro in a neon-lit Japanese alley at midnight. I am leaning against a bike with crossed arms, black oversized jacket, silver earrings, stylish messy hair. Zoro holding swords with green aura, wet pavement reflections, cinematic fog, dark green neon lighting, realistic anime-human fusion, highly detailed textures, Instagram trending dark street aesthetic, AR 3:4",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778579159465/1895.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1896",
+        "title": "",
+        "prompt": "“Ultra realistic anime-cinematic scene featuring me walking beside Madara Uchiha on a ruined battlefield during a thunderstorm. Madara with glowing Sharingan and Susanoo aura behind him. I am standing with crossed arms, black tactical outfit fluttering in wind, lightning striking around us, dark blue cinematic tones, realistic smoke particles, highly detailed face, powerful villain energy, hyper-detailed realism, Instagram viral edit style, AR 3:4.”",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778579247598/1896.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1897",
+        "title": "",
+        "prompt": "Ultra-wide fisheye selfie shot, anime crossover group selfie inside a cozy modern living room, the viewer's face replacing the central person, centered very close to camera, arms extended toward the lens, slightly playful expression, surrounded by stylized anime pirate crew characters posing tightly behind and around the subject. exaggerated facial expressions, joyful chaotic group energy, indoor living room with sofa, bookshelf, framed anime posters, window with curtains in the background, warm wooden details, strong circular fisheye distortion, black rounded lens vignette around the edges. intimate selfie perspective. subject occupying the center foreground. background characters layered in clepth around the face.\n\nApply a much darker, moocdier, ultra-cinematic lighting style: deep black-rich shadows, cinematic contrast, dramatic directional light on the face and upper torso, selective radiant bloom on bright edges, luminous halo around face, shoulders and arms, strong subject separation from the background. subtle rim light, glossy highlights, realistic skin texture, soft but sharp facial detail, premium clark eclitorial cinematic grade, moody warm interior tones, controlled highlights, volumetric glow, film-like contrast, ultra-sharp details, realistic lighting diffusion, cinematic depth, high-end poster look, 8K.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778579281861/1897.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1898",
+        "title": "",
+        "prompt": "Vertical cinematic horror movie theater shot. centered frontal composition, a real person replacing the woman in the front row, seated alone in a red cinema chair. holding a large striped popcorn bucket on the lap. one hand raised near the mouth eating popcorn, calm intense stare directly into the camera.\n\nsurrounded in the rows behind by iconic masked horror movie villains watching silently, dark cinema auditorium, red velvet seats, black empty background, single projector light glowing above and behind. symmetrical framing, shallow depth of field, subject in sharp focus, villains slightly softer in the background.Dramatic cinematic light effect, dark moody atmosphere, strong overhead projector glow, bright circular light source at the top center, soft lens flare, deep shadows, high contrast, subtle rim light outlining the face, hair, shoulders and popcorn bucket, controlled highlights on skin and fabric. rich\n\nred cinema seats, desaturated dark background. suspenseful movie-poster mood, realistic skin texture. film grain, volumetric haze, cinematic depth, ultra-sharp details, realistic lighting diffusion. HDR. 8K.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778579299527/1898.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1899",
+        "title": "",
+        "prompt": "Cinematic wide-angle shot of a real young man with short brown hair, light beard, wearing a dark navy blue t-shirt with the Konoha leaf symbol, standing in a rocky training ground at golden hour, awestruck expression, reaching toward a glowing blue spiraling Rasengan sphere held by anime-style Naruto Uzumaki (orange jumpsuit, spiky blonde hair, whisker marks, intense eyes). Behind them, anime Jiraiya (white hair, red marks on face, sage attire) watches proudly with arms crossed. The real man is photo-realistic with natural skin texture and lighting; all Naruto characters are in vibrant cel-shaded anime style. Dust and rock debris swirl around the Rasengan's energy. Dramatic Hokage Mountain visible in background. Lighting: warm sunset rim light on the real man, cool blue chakra glow from the jutsu. Style: hyper-realistic human high-detail anime hybrid, cinematic composition, depth of field. ar 4:5 --v 6 --stylize 800",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778579317602/1899.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1900",
+        "title": "",
+        "prompt": "-Keep the person exactly the same same face, pose, outfit, lighting. and 1,background. Add a shadowy, smoke-like demonic entity emerging from behind the person's back, The entity should be made of swirlinc blue and black smoke, semi-transparent, with glowing white eves. The smoke wraps around the body and flows down to the floor naturally blending with the environment. Maintain realistic shadows, reflections, and depth so the creature feels part of the scene Dark, moody atmosphere, high contrast, cinematic lighting, ultra-realistic, 8k quality. No change to facial features, clothing, or camera angle Instagrammable",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778579344367/1900.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1901",
+        "title": "",
+        "prompt": "behind him appears a massive shadow entity made of black smoke and energy humanoid shape with glowing purple eyes purple lightning bolts crackling around his body and striking the ground thick smoky aura swirling dark mist dramatic lightning high contrast moody atmosphere ultra realistic sharp focus depthof field 8k cinematic composition dark aesthetic supernatural vibe",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778579386721/1901.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1902",
+        "title": "",
+        "prompt": "Ultra-realistic high-fashion editorial portrait of a beautiful young Asian woman standing confidently in a monochromatic white urban environment, wearing modern luxury white streetwear fashion. Oversized white bomber jacket, fitted white crop top, layered white cargo pants with metallic chains, white tactical sneakers, silver jewelry, subtle glossy makeup, soft matte skin texture, long voluminous ash-brown wavy hair with wispy bangs flowing naturally in the wind.\n\nA massive realistic albino python emerges behind and around her body, partially concealed within thick swirling white smoke and atmospheric fog. The snake appears lifelike with detailed scales, realistic muscle tension, natural reflections, visible texture, sharp eyes, and subtle movement. The environment is almost entirely white - white architecture, white smoke, white clothing, white textures, white lighting -creating a clean monochromatic aesthetic.\n\nLarge distressed black \"2002\" typography dominates the background in bold industrial font, the only dark element in the entire composition. Strong contrast between the black numbers and the all-white scene.\n\nShot like a luxury fashion campaign, realistic photography, cinematic urban atmosphere, natural skin texture, highly detailed eyes, realistic hair strands, authentic fabric folds, realistic smoke physics, dramatic directional lighting, shallow depth of field, crisp focus, realistic proportions, modern editorial photography, Vogue magazine aesthetic, street luxury styling, high dynamic range, photorealistic, ultra detailed, 85mm lens, soft cinematic shadows, studio-quality color grading, real-world textures, professional fashion photography, no fantasy elements, no CGI appearance, no cartoon style, no anime aesthetic.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778579406289/1902.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1903",
+        "title": "",
+        "prompt": "Ultra-realistic high-fashion editorial portrait of a handsome young Asian man standing confidently in a monochromatic white urban environment, wearing modern luxury white streetwear fashion, Oversized white bomber jacket layered over a fitted white compression tee, layered white cargo pants with metallic chains and tactical straps, white high-top tactical sneakers, silver jewelry, subtle masculine grooming, soft matte skin texture, sharp jawline, textured ash brown messy hairstyle with natural movement flowing slightly in the wind.\n\nA massive realistic albino python emerges behind and around his body, partially concealed within thick swirling white smoke and atmospheric fog. The snake appears lifelike with highly detailed scales, realistic muscle tension, natural reflections, visible texture, sharp eyes, and subtle movement. The environment is almost entirely white - white architecture, white smoke, white clothing, white textures, white lighting - creating a clean monochromatic luxury aesthetic.\n\nLarge distressed black \"2002\" typography dominates the background in a bold industrial font, the only dark element in the entire composition. Strong contrast between the black numbers and the all-white scene.\n\nShot like a luxury fashion campaign, realistic photography, cinematic urban atmosphere, natural skin texture, highly detailed eyes, realistic hair strands, authentic fabric folds, realistic smoke physics, dramatic directional lighting, shallow depth of field, crisp focus, realistic masculine proportions, modern editorial\n\nphotography, Vogue magazine aesthetic, street luxury styling, high dynamic range, photorealistic, ultra detailed, 85mm lens, soft cinematic shadows, studio-quality color grading, real-world textures, professional fashion photography, no fantasy elements, no CGI appearance, no cartoon style, no anime aesthetic, powerful masculine energy,\n\nluxury streetwear campaign vibe, Instagram editorial aesthetic, AR 3:4.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778579424108/1903.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1904",
+        "title": "",
+        "prompt": "Ultra-realistic cinematic composite portrait of a 23-year-old man (183 cm tall) standing confidently beside Satoru Gojo from Jujutsu Kaisen inside a futuristic neon-lit underground subway station. The man has a thick well-groomed black beard, voluminous wavy black hair, sharp jawline, and realistic skin texture, wearing oversized luxury streetwear: baggy distressed denim jeans, oversized green plaid shirt layered over a black tee, black cross-body tactical bag, and premium white sneakers.\n\nHe poses casually with left hand inside pocket and right arm resting on Gojo's shoulder naturally.\n\nGojo is rendered in ultra-detailed anime realism with white spiky hair, black blindfold, dark high-collar outfit, glowing blue cursed energy radiating around him. Massive blue-purple energy waves and floating debris swirl through the subway tunnel, cinematic sparks flying through the air. Dramatic chiaroscuro lighting, glowing reflections on wet subway floor, shallow depth of field, 35mm lens simulation, hyper-realistic textures, volumetric fog, vibrant neon blue aura, ultra detailed face fidelity, identity locked facial structure, Instagram trending anime crossover aesthetic.\n\nAspect Ratio: 3:4\n\nStyle: Hyper realistic + anime fusion, 8K cinematic quality.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778579468340/1904.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1905",
+        "title": "",
+        "prompt": "Ultra-realistic cinematic composite image of a young realistic man beside Levi Ackerman in an abandoned industrial train station inspired by Attack on Titan aesthetics. The man has a thick black beard, voluminous dark wavy hair, oversized streetwear with distressed jeans, green plaid overshirt, black crossbody bag, and stylish white sneakers. Pose: left hand in pocket, right hand holding Levi's shoulder casually.\n\nLevi appears in ultra-sharp anime style wearing Survey Corps outfit with ODM gear attached, dark green cloak flowing dramatically. Metallic cables and glowing blue energy wires spiral around both figures while sparks fly across the station. Dust particles illuminated by cinematic overhead lights, realistic smoke, cracked concrete walls, dramatic shadows, shallow depth of field, cinematic realism, 8K detail, ultra realistic skin textures, identity preserved face accuracy, anime x real world fusion masterpiece.\n\nAspect Ratio: 3:4\n\nStyle: Hyper-real cinematic anime crossover.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778579495387/1905.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1906",
+        "title": "",
+        "prompt": "dark ultra-realistic cinematic portrait of a realistic young man standing beside Sung Jin-Woo in a destroyed underground metro corridor. The man features a thick groomed beard, realistic wavy black hair, oversized green plaid shirt, distressed loose-fit denim jeans, black crossbody bag, and bright white sneakers. He poses with left hand in pocket while right hand rests on Jin-Woo's shoulder.\n\nSung Jin-Woo appears in ultra-detailed anime realism with glowing purple eyes, black shadow aura, and shadow soldiers emerging behind him through dark portals.\n\nPurple-black magical smoke and glowing shadow daggers surround both characters. Neon purple subway lights flicker dramatically, cinematic fog, intense depth, realistic lighting reflections, high contrast shadows, shallow DOF, 35mm cinematic framing, ultra realistic textures, 8k HDR quality, highly detailed facial fidelity.\n\nAspect Ratio: 3:4\n\nStyle: Dark fantasy anime realism.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778579511066/1906.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1907",
+        "title": "",
+        "prompt": "Ultra-realistic cinematic portrait of a handsome young Indian man standing alone in a rainy cyberpunk alley at midnight, wet voluminous black hair, thick sharp beard, intense eyes glowing slightly under neon reflections, wearing oversized matte black streetwear hoodie with layered silver chains, rain droplets on skin and clothes, dark Tokyo-style neon signs blurred in background, moody blue and red lighting, smoke and fog around the street, ultra detailed skin pores, realistic shadows, luxury fashion editorial vibe, mysterious aura, dramatic composition, shallow depth of field, hyper realistic photography, Instagram trending dark aesthetic, cinematic color grading, 8k ultra detail, masterpiece, sharp focus --ar 3:4",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778579568872/1907.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1908",
+        "title": "",
+        "prompt": "​A cinematic, high-contrast black and white portrait of a tall, muscular man with a well-groomed thick beard and voluminous dark hair styled in a textured pompadour. He is wearing a sharp, tailored black suit with an unbuttoned black dress shirt and designer sunglasses, leaning effortlessly against the front fender of a sleek black Mercedes G-Wagon. He has a cigar in his mouth in right side and is looking downward with a composed, \"quiet luxury\" aesthetic. The setting is an expansive, misty grassy field with a soft-focus mountainous horizon. Shot on 35mm film with a moody chiaroscuro lighting effect, deep shadows, and sharp textures. 8k resolution, photorealistic, ultra-detailed skin and fabric, 85mm f/1.4 lens, film noir atmosphere, 100% my face same, I need this prompt picture, zoom in 9:16, man both hand in pocket, and camera angle in front,",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778579742354/1908.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1909",
+        "title": "",
+        "prompt": "Young angel boy sitting peacefully in the middle of a giant colorful flower field, massive soft white wings folded naturally behind his back, wearing oversized white tank top, relaxed emotional pose with head slightly tilted down, dreamy fantasy garden environment filled with roses and glowing flowers, cinematic natural lighting, ultra realistic skin texture, feather details visible individually, soft warm sunlight illuminating the face, aesthetic flower foreground blur, shallow DOF, magical atmosphere, emotional storytelling composition, heavenly fantasy vibe, realistic hair strands, elegant posture, luxury editorial portrait photography, moody background, photorealistic fantasy art, hyper detailed wings, DSLR portrait shot, HDR, 4K ultra HD, soft pastel tones mixed with warm cinematic colors, masterpiece quality, volumetric light beams through trees, realistic shadows and highlights\nNegative Prompt:\nCGI, cartoon style, extra fingers, blurry details, unrealistic wings, over sharpened,",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778579868875/1909.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1910",
+        "title": "",
+        "prompt": "Reflecting light.\n\nA stylish young man sitting casually on a classic retro motorcycle (similar to a Royal Enfield), parked in an outdoor urban setting. The background features a textured beige concrete wall with a mounted red fire hose cabinet labeled \"HOSE,\" \" alon along with exposed red fire pipes running vertically and horizontally across the wall. There are green tropical plants (palm leaves) partially visible on the left\n\nside, adding a natural contrast to the industrial environment. The man has a medium skin tone, sharp jawline, light stubble beard, and thick, voluminous dark hair styled upward with a slightly messy, modern look. He is smiling naturally and looking toward his left (away from the camera), giving a candid and relaxed vibe. He is wearing a white crew-neck t-shirt layered under an open black-and-grey checkered shirt, paired with loose-fit black trousers and clean white sneakers. Accessories include a thin chain necklace and a bracelet on his wrist. Pose: He is seated sideways on the motorcycle seat. One leg is bent and resting on the seat, while the other leg is down with the foot\n\ntouching the ground. His posture is relaxed, slightly leaning forward, with one hand loosely holding sunglasses near his lap. The motorcycle is a polished chrome and black retro bike with visible engine detailing, spoked wheels, and a metallic fuel tank\n\nLighting: Soft natural daylight with warm tones, evenly diffused, creating gentle shadows and a cinematic lifestyle photography feel.\n\nCamera & composition: Mid-shot framing with slight depth of field, subject in sharp focus while the background is subtly blurred. Shot at eye level with a professional DSLR look, high resolution, ultra-realistic textures, and crisp details. Style: cinematic, lifestyle photography, fashion editorial, natural candid moment, urban aesthetic, realistic color",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778579970445/1910.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1911",
+        "title": "",
+        "prompt": "Use the uploaded reference photo as the single and exclusive facial identity source.\n\nThe same exact face must\n\nappear in ALL three frames with no variation. Do not reinterpret, regenerate, beautify, or modify the face between frames. Facial identity has highest priority over lighting, angle, blur, or realism. Ultra-realistic vertical image split equally into three stacked frames (top / middle / bottom) within one single photo. All frames show the same person with the same face, same outfit, same location, captured seconds apart like a burst of candid smartphone shots. Only subtle movement changes. Feels accidental, real, and human. Location & background: A small outdoor balcony or corridor beside a modern building at night. Wooden hand railing, concrete wall on one side, lush green plants and small trees behind. Warm wall-mounted lights glowing softly. Dark night sky visible. Urban, café-like residential atmosphere. Real, lived-in environment - not staged. Outfit (locked): Light pink vertically striped button-down shirt, top buttons open showing slight chest. Full Sleeves rolled to forearms. High-waisted black tailored trousers. Metal wristwatch on one wrist. No jacket, no accessories beyond the watch. Hair & Face (LOCKED) Medium-length, thick,\n\nnaturally wavy hair Slightly\n\nmessy, lived-in texture Light\nstubble / short beard Real skin texture, visible pores No smoothing, no beautification FRAME BREAKDOWN (VERY IMPORTANT) TOP FRAME BACK SHOT Back view of the subject. He is touching the back of his hair near the neck, fingers slightly tangled in hair. Head tilted slightly down and to the side. Relaxed posture, candid movement.\n\nHair texture clearly visible from behind. MIDDLE FRAME CLOSE-UP Tight closeup near the eyes and upper face. Messy strands of hair falling naturally near the eyes. Eyes partially visible, soft focus. Very slight motion softness from movement. Feels intimate, accidental, not posed.\n\nBOTTOM FRAME - MID SHOT\n\nMid-shot from waist or chest up. Subject leaning casually against the railing. Looking sideways, not at the camera. Expression calm, confident, contemplative. Natural posture, effortless presence. Lighting (LOCKED) Warm artificial wall lig",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778580055628/1911.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1912",
+        "title": "",
+        "prompt": "Photorealistic studio portrait of a confident Indian woman dressed in a luxurious deep brown silk saree with intricate gold zari work and a rich traditional border. The saree is elegantly draped, paired with a matching fitted V-neckline  blouse featuring subtle embroidery and structured sleeves. She is adorned with heavy traditional gold jewelry including layered necklaces, a choker, long temple-style chains, ornate jhumka earrings, stacked bangles, statement rings, and a detailed waist belt (kamarbandh). A small red bindi sits at the center of her forehead, enhancing her traditional look. Her long, voluminous wavy hair is styled to one side, with a soft, polished finish.  adding a modern fusion touch to the traditional attire.Her makeup is warm and radiant with defined eyes, soft contouring, and a natural shitly smile. She stands gracefully with hands gently clasped in front, posture relaxed yet poised, expressing confidence and elegance. Background features a dark, rich brown draped fabric backdrop with soft folds, creating a royal, studio-lit atmosphere. Lighting is soft and directional, highlighting the textures of silk, gold jewelry, and skin tones with cinematic depth.Shot in ultra-realistic style, 8K resolution, 85mm lens, f/1.8, shallow depth of field, sharp focus on subject, soft bokeh background, high dynamic range, editorial fashion photography, luxury bridal aesthetic, warm color grading. Face match same to same ratio9:16",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778580155372/1912.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1913",
+        "title": "",
+        "prompt": "Create a hyper-realistic(With my hardlocked reference face. No changes to face or tattoos or piercings. 100% face match. 100% outfit match). She is busty and has an S shaped curvy figure, with rounded plump, pillowy thick thighs and toned waist. Photorealistic image of a woman seated in a bright tropical café setting with large green plants, white walls, and soft natural daylight streaming in from the side. She is sitting on a white metal chair beside a rustic wooden table, holding a glass of orange juice in one hand. She is wearing a strapless red and beige striped dress with a fitted bandeau-style bodice that features a subtle twist at the center of the bust. The dress flows into a lightweight, semi-sheer skirt with a high thigh slit, revealing one leg as she sits with a relaxed but confident posture, slightly angled toward the camera.\nHer hair is shoulder-length, styled in soft voluminous waves with a natural side part. Makeup is warm and polished with bronzed skin and soft glossy lips. Lighting is natural and bright, casting soft shadows and highlighting skin tones and fabric texture. Shot at eye level with a medium frame (knee-up), shallow depth of field, ultra-realistic, high detail, editorial fashion photography style.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778580326123/1913.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "id": "1914",
+        "title": "",
+        "prompt": "Without changing the facial features of above image couple,create an ultra realistic water color portrait ,both as bride and groom drawn in centre of plain white background \n\n\nBoth as a bride and groom sitting on floor. Groom should be in rich silk cream shirt and white veshti .Woman  should be in dark color silk heavy aari work with golden borders saree. She should be in bridal makeup and hairstyle with jewelry ,necklace,bangles ,flowers. Man should be about to tie the yellow knot(mangalsutra /Thaali) in bride neck in tamil style. White paper background. Yellow rice should fly all over. Both should wear white with red flowers garlands \n\n\nBackgrounds should be plain white paper. There should be blue and brown water color splash. Above them there should be wordings \"மாங்கல்யம்\" in tamil in slanting pink. Whole picture should be sepia with violet tone. Both should not look the camera and both should be in smile. No other objects/things should be visible \n\nAspect ratio 4:5. Preserve exact face of uploaded image man and woman.",
+        "image_url": "https://upload.meeshosupplyassets.com/cataloging/1778580512996/1914.jpg",
+        "category_name": "Trending",
+        "categories": [
+            "Trending"
         ]
     }
 ]
