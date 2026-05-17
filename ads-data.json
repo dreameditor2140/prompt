@@ -1,9 +1,9 @@
 {
     "isBannerAdEnabled": false,
     "isInterstitialAdEnabled": true,
-    "isNativeAdEnabled": false,
+    "isNativeAdEnabled": true,
     "isFeedNativeAdEnabled": true,
-    "isGridListNativeAdEnabled": false,
+    "isGridListNativeAdEnabled": true,
     "showTestAds": false,
     "canShowAds": true,
     "isNativeOrBannerType": 3,
