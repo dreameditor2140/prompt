@@ -5,7 +5,7 @@
     "isFeedNativeAdEnabled": true,
     "isGridListNativeAdEnabled": true,
     "showTestAds": false,
-    "canShowAds": false,
+    "canShowAds": true,
     "isNativeOrBannerType": 3,
     "isInterstitialOrRewardType": 1,
     "promptAdType": 1,
